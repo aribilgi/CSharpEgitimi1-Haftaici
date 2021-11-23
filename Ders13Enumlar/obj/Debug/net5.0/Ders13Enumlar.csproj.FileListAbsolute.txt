@@ -1,0 +1,16 @@
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders13Enumlar\bin\Debug\net5.0\Ders13Enumlar.exe
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders13Enumlar\bin\Debug\net5.0\Ders13Enumlar.deps.json
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders13Enumlar\bin\Debug\net5.0\Ders13Enumlar.runtimeconfig.json
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders13Enumlar\bin\Debug\net5.0\Ders13Enumlar.runtimeconfig.dev.json
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders13Enumlar\bin\Debug\net5.0\Ders13Enumlar.dll
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders13Enumlar\bin\Debug\net5.0\ref\Ders13Enumlar.dll
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders13Enumlar\bin\Debug\net5.0\Ders13Enumlar.pdb
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders13Enumlar\obj\Debug\net5.0\Ders13Enumlar.csproj.AssemblyReference.cache
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders13Enumlar\obj\Debug\net5.0\Ders13Enumlar.GeneratedMSBuildEditorConfig.editorconfig
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders13Enumlar\obj\Debug\net5.0\Ders13Enumlar.AssemblyInfoInputs.cache
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders13Enumlar\obj\Debug\net5.0\Ders13Enumlar.AssemblyInfo.cs
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders13Enumlar\obj\Debug\net5.0\Ders13Enumlar.csproj.CoreCompileInputs.cache
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders13Enumlar\obj\Debug\net5.0\Ders13Enumlar.dll
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders13Enumlar\obj\Debug\net5.0\ref\Ders13Enumlar.dll
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders13Enumlar\obj\Debug\net5.0\Ders13Enumlar.pdb
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders13Enumlar\obj\Debug\net5.0\Ders13Enumlar.genruntimeconfig.cache

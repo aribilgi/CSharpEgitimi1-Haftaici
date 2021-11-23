@@ -1,0 +1,7 @@
+D:\CSharpEgitimi\Ders08SiniflarClasses\bin\Debug\Ders08SiniflarClasses.exe.config
+D:\CSharpEgitimi\Ders08SiniflarClasses\bin\Debug\Ders08SiniflarClasses.exe
+D:\CSharpEgitimi\Ders08SiniflarClasses\bin\Debug\Ders08SiniflarClasses.pdb
+D:\CSharpEgitimi\Ders08SiniflarClasses\obj\Debug\Ders08SiniflarClasses.csproj.AssemblyReference.cache
+D:\CSharpEgitimi\Ders08SiniflarClasses\obj\Debug\Ders08SiniflarClasses.csproj.CoreCompileInputs.cache
+D:\CSharpEgitimi\Ders08SiniflarClasses\obj\Debug\Ders08SiniflarClasses.exe
+D:\CSharpEgitimi\Ders08SiniflarClasses\obj\Debug\Ders08SiniflarClasses.pdb

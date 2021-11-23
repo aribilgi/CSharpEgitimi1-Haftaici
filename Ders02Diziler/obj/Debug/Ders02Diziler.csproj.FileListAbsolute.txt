@@ -1,0 +1,7 @@
+D:\CSharpEgitimi\Ders02Diziler\bin\Debug\Ders02Diziler.exe.config
+D:\CSharpEgitimi\Ders02Diziler\bin\Debug\Ders02Diziler.exe
+D:\CSharpEgitimi\Ders02Diziler\bin\Debug\Ders02Diziler.pdb
+D:\CSharpEgitimi\Ders02Diziler\obj\Debug\Ders02Diziler.csprojAssemblyReference.cache
+D:\CSharpEgitimi\Ders02Diziler\obj\Debug\Ders02Diziler.csproj.CoreCompileInputs.cache
+D:\CSharpEgitimi\Ders02Diziler\obj\Debug\Ders02Diziler.exe
+D:\CSharpEgitimi\Ders02Diziler\obj\Debug\Ders02Diziler.pdb

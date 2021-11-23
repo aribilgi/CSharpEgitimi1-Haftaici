@@ -1,0 +1,14 @@
+C:\Users\ARIBILGI\Desktop\CSharpEgitimi\Ders08SiniflarClasses\bin\Debug\netcoreapp3.1\Ders08SiniflarClasses.exe
+C:\Users\ARIBILGI\Desktop\CSharpEgitimi\Ders08SiniflarClasses\bin\Debug\netcoreapp3.1\Ders08SiniflarClasses.deps.json
+C:\Users\ARIBILGI\Desktop\CSharpEgitimi\Ders08SiniflarClasses\bin\Debug\netcoreapp3.1\Ders08SiniflarClasses.runtimeconfig.json
+C:\Users\ARIBILGI\Desktop\CSharpEgitimi\Ders08SiniflarClasses\bin\Debug\netcoreapp3.1\Ders08SiniflarClasses.runtimeconfig.dev.json
+C:\Users\ARIBILGI\Desktop\CSharpEgitimi\Ders08SiniflarClasses\bin\Debug\netcoreapp3.1\Ders08SiniflarClasses.dll
+C:\Users\ARIBILGI\Desktop\CSharpEgitimi\Ders08SiniflarClasses\bin\Debug\netcoreapp3.1\Ders08SiniflarClasses.pdb
+C:\Users\ARIBILGI\Desktop\CSharpEgitimi\Ders08SiniflarClasses\obj\Debug\netcoreapp3.1\Ders08SiniflarClasses.csproj.AssemblyReference.cache
+C:\Users\ARIBILGI\Desktop\CSharpEgitimi\Ders08SiniflarClasses\obj\Debug\netcoreapp3.1\Ders08SiniflarClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARIBILGI\Desktop\CSharpEgitimi\Ders08SiniflarClasses\obj\Debug\netcoreapp3.1\Ders08SiniflarClasses.AssemblyInfoInputs.cache
+C:\Users\ARIBILGI\Desktop\CSharpEgitimi\Ders08SiniflarClasses\obj\Debug\netcoreapp3.1\Ders08SiniflarClasses.AssemblyInfo.cs
+C:\Users\ARIBILGI\Desktop\CSharpEgitimi\Ders08SiniflarClasses\obj\Debug\netcoreapp3.1\Ders08SiniflarClasses.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI\Desktop\CSharpEgitimi\Ders08SiniflarClasses\obj\Debug\netcoreapp3.1\Ders08SiniflarClasses.dll
+C:\Users\ARIBILGI\Desktop\CSharpEgitimi\Ders08SiniflarClasses\obj\Debug\netcoreapp3.1\Ders08SiniflarClasses.pdb
+C:\Users\ARIBILGI\Desktop\CSharpEgitimi\Ders08SiniflarClasses\obj\Debug\netcoreapp3.1\Ders08SiniflarClasses.genruntimeconfig.cache

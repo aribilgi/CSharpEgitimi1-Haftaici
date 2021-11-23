@@ -1,0 +1,7 @@
+D:\CSharpEgitimi\Ders07Metotlar\bin\Debug\Ders07Metotlar.exe.config
+D:\CSharpEgitimi\Ders07Metotlar\bin\Debug\Ders07Metotlar.exe
+D:\CSharpEgitimi\Ders07Metotlar\bin\Debug\Ders07Metotlar.pdb
+D:\CSharpEgitimi\Ders07Metotlar\obj\Debug\Ders07Metotlar.csproj.CoreCompileInputs.cache
+D:\CSharpEgitimi\Ders07Metotlar\obj\Debug\Ders07Metotlar.exe
+D:\CSharpEgitimi\Ders07Metotlar\obj\Debug\Ders07Metotlar.pdb
+D:\CSharpEgitimi\Ders07Metotlar\obj\Debug\Ders07Metotlar.csproj.AssemblyReference.cache

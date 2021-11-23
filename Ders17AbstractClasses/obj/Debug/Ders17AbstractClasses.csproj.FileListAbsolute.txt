@@ -1,0 +1,7 @@
+D:\CSharpEgitimi\Ders17AbstractClasses\bin\Debug\Ders17AbstractClasses.exe.config
+D:\CSharpEgitimi\Ders17AbstractClasses\bin\Debug\Ders17AbstractClasses.exe
+D:\CSharpEgitimi\Ders17AbstractClasses\bin\Debug\Ders17AbstractClasses.pdb
+D:\CSharpEgitimi\Ders17AbstractClasses\obj\Debug\Ders17AbstractClasses.csproj.AssemblyReference.cache
+D:\CSharpEgitimi\Ders17AbstractClasses\obj\Debug\Ders17AbstractClasses.csproj.CoreCompileInputs.cache
+D:\CSharpEgitimi\Ders17AbstractClasses\obj\Debug\Ders17AbstractClasses.exe
+D:\CSharpEgitimi\Ders17AbstractClasses\obj\Debug\Ders17AbstractClasses.pdb

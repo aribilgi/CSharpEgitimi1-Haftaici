@@ -1,0 +1,7 @@
+D:\CSharpEgitimi\Ders16InterfacesArayuzler\bin\Debug\Ders16InterfacesArayuzler.exe.config
+D:\CSharpEgitimi\Ders16InterfacesArayuzler\bin\Debug\Ders16InterfacesArayuzler.exe
+D:\CSharpEgitimi\Ders16InterfacesArayuzler\bin\Debug\Ders16InterfacesArayuzler.pdb
+D:\CSharpEgitimi\Ders16InterfacesArayuzler\obj\Debug\Ders16InterfacesArayuzler.csproj.AssemblyReference.cache
+D:\CSharpEgitimi\Ders16InterfacesArayuzler\obj\Debug\Ders16InterfacesArayuzler.csproj.CoreCompileInputs.cache
+D:\CSharpEgitimi\Ders16InterfacesArayuzler\obj\Debug\Ders16InterfacesArayuzler.exe
+D:\CSharpEgitimi\Ders16InterfacesArayuzler\obj\Debug\Ders16InterfacesArayuzler.pdb

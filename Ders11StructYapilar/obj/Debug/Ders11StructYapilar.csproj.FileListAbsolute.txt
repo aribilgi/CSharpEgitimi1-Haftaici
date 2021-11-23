@@ -1,0 +1,7 @@
+D:\CSharpEgitimi\Ders11StructYapilar\bin\Debug\Ders11StructYapilar.exe.config
+D:\CSharpEgitimi\Ders11StructYapilar\bin\Debug\Ders11StructYapilar.exe
+D:\CSharpEgitimi\Ders11StructYapilar\bin\Debug\Ders11StructYapilar.pdb
+D:\CSharpEgitimi\Ders11StructYapilar\obj\Debug\Ders11StructYapilar.csproj.AssemblyReference.cache
+D:\CSharpEgitimi\Ders11StructYapilar\obj\Debug\Ders11StructYapilar.csproj.CoreCompileInputs.cache
+D:\CSharpEgitimi\Ders11StructYapilar\obj\Debug\Ders11StructYapilar.exe
+D:\CSharpEgitimi\Ders11StructYapilar\obj\Debug\Ders11StructYapilar.pdb

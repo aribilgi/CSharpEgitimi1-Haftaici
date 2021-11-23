@@ -1,0 +1,16 @@
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi\Ders03TipDonusumleri\bin\Debug\net5.0\Ders03TipDonusumleri.exe
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi\Ders03TipDonusumleri\bin\Debug\net5.0\Ders03TipDonusumleri.deps.json
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi\Ders03TipDonusumleri\bin\Debug\net5.0\Ders03TipDonusumleri.runtimeconfig.json
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi\Ders03TipDonusumleri\bin\Debug\net5.0\Ders03TipDonusumleri.runtimeconfig.dev.json
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi\Ders03TipDonusumleri\bin\Debug\net5.0\Ders03TipDonusumleri.dll
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi\Ders03TipDonusumleri\bin\Debug\net5.0\ref\Ders03TipDonusumleri.dll
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi\Ders03TipDonusumleri\bin\Debug\net5.0\Ders03TipDonusumleri.pdb
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi\Ders03TipDonusumleri\obj\Debug\net5.0\Ders03TipDonusumleri.csproj.AssemblyReference.cache
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi\Ders03TipDonusumleri\obj\Debug\net5.0\Ders03TipDonusumleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi\Ders03TipDonusumleri\obj\Debug\net5.0\Ders03TipDonusumleri.AssemblyInfoInputs.cache
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi\Ders03TipDonusumleri\obj\Debug\net5.0\Ders03TipDonusumleri.AssemblyInfo.cs
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi\Ders03TipDonusumleri\obj\Debug\net5.0\Ders03TipDonusumleri.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi\Ders03TipDonusumleri\obj\Debug\net5.0\Ders03TipDonusumleri.dll
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi\Ders03TipDonusumleri\obj\Debug\net5.0\ref\Ders03TipDonusumleri.dll
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi\Ders03TipDonusumleri\obj\Debug\net5.0\Ders03TipDonusumleri.pdb
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi\Ders03TipDonusumleri\obj\Debug\net5.0\Ders03TipDonusumleri.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi\Ders04Operatorler\bin\Debug\net5.0\Ders04Operatorler.exe
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi\Ders04Operatorler\bin\Debug\net5.0\Ders04Operatorler.deps.json
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi\Ders04Operatorler\bin\Debug\net5.0\Ders04Operatorler.runtimeconfig.json
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi\Ders04Operatorler\bin\Debug\net5.0\Ders04Operatorler.runtimeconfig.dev.json
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi\Ders04Operatorler\bin\Debug\net5.0\Ders04Operatorler.dll
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi\Ders04Operatorler\bin\Debug\net5.0\ref\Ders04Operatorler.dll
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi\Ders04Operatorler\bin\Debug\net5.0\Ders04Operatorler.pdb
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi\Ders04Operatorler\obj\Debug\net5.0\Ders04Operatorler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi\Ders04Operatorler\obj\Debug\net5.0\Ders04Operatorler.AssemblyInfoInputs.cache
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi\Ders04Operatorler\obj\Debug\net5.0\Ders04Operatorler.AssemblyInfo.cs
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi\Ders04Operatorler\obj\Debug\net5.0\Ders04Operatorler.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi\Ders04Operatorler\obj\Debug\net5.0\Ders04Operatorler.dll
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi\Ders04Operatorler\obj\Debug\net5.0\ref\Ders04Operatorler.dll
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi\Ders04Operatorler\obj\Debug\net5.0\Ders04Operatorler.pdb
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi\Ders04Operatorler\obj\Debug\net5.0\Ders04Operatorler.genruntimeconfig.cache

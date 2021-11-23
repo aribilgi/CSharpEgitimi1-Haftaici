@@ -1,0 +1,12 @@
+D:\CSharpEgitimi\ClassLibrary_SinifKutuphanesi\bin\Debug\net5.0\ClassLibrary_SinifKutuphanesi.deps.json
+D:\CSharpEgitimi\ClassLibrary_SinifKutuphanesi\bin\Debug\net5.0\ClassLibrary_SinifKutuphanesi.dll
+D:\CSharpEgitimi\ClassLibrary_SinifKutuphanesi\bin\Debug\net5.0\ref\ClassLibrary_SinifKutuphanesi.dll
+D:\CSharpEgitimi\ClassLibrary_SinifKutuphanesi\bin\Debug\net5.0\ClassLibrary_SinifKutuphanesi.pdb
+D:\CSharpEgitimi\ClassLibrary_SinifKutuphanesi\obj\Debug\net5.0\ClassLibrary_SinifKutuphanesi.csproj.AssemblyReference.cache
+D:\CSharpEgitimi\ClassLibrary_SinifKutuphanesi\obj\Debug\net5.0\ClassLibrary_SinifKutuphanesi.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpEgitimi\ClassLibrary_SinifKutuphanesi\obj\Debug\net5.0\ClassLibrary_SinifKutuphanesi.AssemblyInfoInputs.cache
+D:\CSharpEgitimi\ClassLibrary_SinifKutuphanesi\obj\Debug\net5.0\ClassLibrary_SinifKutuphanesi.AssemblyInfo.cs
+D:\CSharpEgitimi\ClassLibrary_SinifKutuphanesi\obj\Debug\net5.0\ClassLibrary_SinifKutuphanesi.csproj.CoreCompileInputs.cache
+D:\CSharpEgitimi\ClassLibrary_SinifKutuphanesi\obj\Debug\net5.0\ClassLibrary_SinifKutuphanesi.dll
+D:\CSharpEgitimi\ClassLibrary_SinifKutuphanesi\obj\Debug\net5.0\ref\ClassLibrary_SinifKutuphanesi.dll
+D:\CSharpEgitimi\ClassLibrary_SinifKutuphanesi\obj\Debug\net5.0\ClassLibrary_SinifKutuphanesi.pdb

@@ -1,0 +1,93 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "ClassLibrary_SinifKutuphanesi/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/ClassLibrary_SinifKutuphanesi.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClassLibrary_SinifKutuphanesi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClassLibrary_SinifKutuphanesi/1.0.0": {
+      "type": "project",
+      "path": "../ClassLibrary_SinifKutuphanesi/ClassLibrary_SinifKutuphanesi.csproj",
+      "msbuildProject": "../ClassLibrary_SinifKutuphanesi/ClassLibrary_SinifKutuphanesi.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "ClassLibrary_SinifKutuphanesi >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ARIBILGI\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\CSharpEgitimi\\Ders22ClassLibraryKullanimi\\Ders22ClassLibraryKullanimi.csproj",
+      "projectName": "Ders22ClassLibraryKullanimi",
+      "projectPath": "D:\\CSharpEgitimi\\Ders22ClassLibraryKullanimi\\Ders22ClassLibraryKullanimi.csproj",
+      "packagesPath": "C:\\Users\\ARIBILGI\\.nuget\\packages\\",
+      "outputPath": "D:\\CSharpEgitimi\\Ders22ClassLibraryKullanimi\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\ARIBILGI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "D:\\CSharpEgitimi\\ClassLibrary_SinifKutuphanesi\\ClassLibrary_SinifKutuphanesi.csproj": {
+              "projectPath": "D:\\CSharpEgitimi\\ClassLibrary_SinifKutuphanesi\\ClassLibrary_SinifKutuphanesi.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

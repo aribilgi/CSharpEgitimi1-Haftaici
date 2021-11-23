@@ -1,0 +1,16 @@
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders14KalitimInheritance\bin\Debug\net5.0\Ders14KalitimInheritance.exe
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders14KalitimInheritance\bin\Debug\net5.0\Ders14KalitimInheritance.deps.json
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders14KalitimInheritance\bin\Debug\net5.0\Ders14KalitimInheritance.runtimeconfig.json
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders14KalitimInheritance\bin\Debug\net5.0\Ders14KalitimInheritance.runtimeconfig.dev.json
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders14KalitimInheritance\bin\Debug\net5.0\Ders14KalitimInheritance.dll
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders14KalitimInheritance\bin\Debug\net5.0\ref\Ders14KalitimInheritance.dll
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders14KalitimInheritance\bin\Debug\net5.0\Ders14KalitimInheritance.pdb
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders14KalitimInheritance\obj\Debug\net5.0\Ders14KalitimInheritance.csproj.AssemblyReference.cache
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders14KalitimInheritance\obj\Debug\net5.0\Ders14KalitimInheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders14KalitimInheritance\obj\Debug\net5.0\Ders14KalitimInheritance.AssemblyInfoInputs.cache
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders14KalitimInheritance\obj\Debug\net5.0\Ders14KalitimInheritance.AssemblyInfo.cs
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders14KalitimInheritance\obj\Debug\net5.0\Ders14KalitimInheritance.csproj.CoreCompileInputs.cache
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders14KalitimInheritance\obj\Debug\net5.0\Ders14KalitimInheritance.dll
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders14KalitimInheritance\obj\Debug\net5.0\ref\Ders14KalitimInheritance.dll
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders14KalitimInheritance\obj\Debug\net5.0\Ders14KalitimInheritance.pdb
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders14KalitimInheritance\obj\Debug\net5.0\Ders14KalitimInheritance.genruntimeconfig.cache

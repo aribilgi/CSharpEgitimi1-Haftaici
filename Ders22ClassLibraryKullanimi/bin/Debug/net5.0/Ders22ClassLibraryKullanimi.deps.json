@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ders22ClassLibraryKullanimi/1.0.0": {
+        "dependencies": {
+          "ClassLibrary_SinifKutuphanesi": "1.0.0"
+        },
+        "runtime": {
+          "Ders22ClassLibraryKullanimi.dll": {}
+        }
+      },
+      "ClassLibrary_SinifKutuphanesi/1.0.0": {
+        "runtime": {
+          "ClassLibrary_SinifKutuphanesi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ders22ClassLibraryKullanimi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibrary_SinifKutuphanesi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

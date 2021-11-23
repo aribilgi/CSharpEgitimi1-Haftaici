@@ -1,0 +1,16 @@
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders10OzgenlerProperties\bin\Debug\net5.0\Ders10OzgenlerProperties.exe
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders10OzgenlerProperties\bin\Debug\net5.0\Ders10OzgenlerProperties.deps.json
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders10OzgenlerProperties\bin\Debug\net5.0\Ders10OzgenlerProperties.runtimeconfig.json
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders10OzgenlerProperties\bin\Debug\net5.0\Ders10OzgenlerProperties.runtimeconfig.dev.json
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders10OzgenlerProperties\bin\Debug\net5.0\Ders10OzgenlerProperties.dll
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders10OzgenlerProperties\bin\Debug\net5.0\ref\Ders10OzgenlerProperties.dll
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders10OzgenlerProperties\bin\Debug\net5.0\Ders10OzgenlerProperties.pdb
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders10OzgenlerProperties\obj\Debug\net5.0\Ders10OzgenlerProperties.csproj.AssemblyReference.cache
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders10OzgenlerProperties\obj\Debug\net5.0\Ders10OzgenlerProperties.GeneratedMSBuildEditorConfig.editorconfig
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders10OzgenlerProperties\obj\Debug\net5.0\Ders10OzgenlerProperties.AssemblyInfoInputs.cache
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders10OzgenlerProperties\obj\Debug\net5.0\Ders10OzgenlerProperties.AssemblyInfo.cs
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders10OzgenlerProperties\obj\Debug\net5.0\Ders10OzgenlerProperties.csproj.CoreCompileInputs.cache
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders10OzgenlerProperties\obj\Debug\net5.0\Ders10OzgenlerProperties.dll
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders10OzgenlerProperties\obj\Debug\net5.0\ref\Ders10OzgenlerProperties.dll
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders10OzgenlerProperties\obj\Debug\net5.0\Ders10OzgenlerProperties.pdb
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders10OzgenlerProperties\obj\Debug\net5.0\Ders10OzgenlerProperties.genruntimeconfig.cache

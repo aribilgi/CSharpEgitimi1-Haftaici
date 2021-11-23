@@ -1,0 +1,7 @@
+D:\CSharpEgitimi\Ders01Degiskenler\bin\Debug\Ders01Degiskenler.exe.config
+D:\CSharpEgitimi\Ders01Degiskenler\bin\Debug\Ders01Degiskenler.exe
+D:\CSharpEgitimi\Ders01Degiskenler\bin\Debug\Ders01Degiskenler.pdb
+D:\CSharpEgitimi\Ders01Degiskenler\obj\Debug\Ders01Degiskenler.csproj.CoreCompileInputs.cache
+D:\CSharpEgitimi\Ders01Degiskenler\obj\Debug\Ders01Degiskenler.exe
+D:\CSharpEgitimi\Ders01Degiskenler\obj\Debug\Ders01Degiskenler.pdb
+D:\CSharpEgitimi\Ders01Degiskenler\obj\Debug\Ders01Degiskenler.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+D:\CSharpEgitimi\Ders19DelegelerDelegates\bin\Debug\Ders19DelegelerDelegates.exe.config
+D:\CSharpEgitimi\Ders19DelegelerDelegates\bin\Debug\Ders19DelegelerDelegates.exe
+D:\CSharpEgitimi\Ders19DelegelerDelegates\bin\Debug\Ders19DelegelerDelegates.pdb
+D:\CSharpEgitimi\Ders19DelegelerDelegates\obj\Debug\Ders20DelegelerDelegates.csproj.AssemblyReference.cache
+D:\CSharpEgitimi\Ders19DelegelerDelegates\obj\Debug\Ders20DelegelerDelegates.csproj.CoreCompileInputs.cache
+D:\CSharpEgitimi\Ders19DelegelerDelegates\obj\Debug\Ders19DelegelerDelegates.exe
+D:\CSharpEgitimi\Ders19DelegelerDelegates\obj\Debug\Ders19DelegelerDelegates.pdb

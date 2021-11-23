@@ -1,0 +1,11 @@
+D:\CSharpEgitimi\Ders09ErisimBelirleyiciler\bin\Debug\Ders09ErisimBelirleyiciler.exe.config
+D:\CSharpEgitimi\Ders09ErisimBelirleyiciler\bin\Debug\Ders09ErisimBelirleyiciler.exe
+D:\CSharpEgitimi\Ders09ErisimBelirleyiciler\bin\Debug\Ders09ErisimBelirleyiciler.pdb
+D:\CSharpEgitimi\Ders09ErisimBelirleyiciler\obj\Debug\Ders09ErisimBelirleyiciler.csproj.AssemblyReference.cache
+D:\CSharpEgitimi\Ders09ErisimBelirleyiciler\obj\Debug\Ders09ErisimBelirleyiciler.csproj.CoreCompileInputs.cache
+D:\CSharpEgitimi\Ders09ErisimBelirleyiciler\obj\Debug\Ders09ErisimBelirleyiciler.exe
+D:\CSharpEgitimi\Ders09ErisimBelirleyiciler\obj\Debug\Ders09ErisimBelirleyiciler.pdb
+D:\CSharpEgitimi\Ders09ErisimBelirleyiciler\bin\Debug\Ders08SiniflarClasses.exe
+D:\CSharpEgitimi\Ders09ErisimBelirleyiciler\bin\Debug\Ders08SiniflarClasses.pdb
+D:\CSharpEgitimi\Ders09ErisimBelirleyiciler\bin\Debug\Ders08SiniflarClasses.exe.config
+D:\CSharpEgitimi\Ders09ErisimBelirleyiciler\obj\Debug\Ders09ErisimBelirleyiciler.csproj.CopyComplete

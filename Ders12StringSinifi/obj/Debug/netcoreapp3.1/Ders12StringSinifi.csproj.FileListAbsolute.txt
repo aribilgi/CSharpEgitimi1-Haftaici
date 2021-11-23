@@ -1,0 +1,14 @@
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders12StringSinifi\bin\Debug\netcoreapp3.1\Ders12StringSinifi.exe
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders12StringSinifi\bin\Debug\netcoreapp3.1\Ders12StringSinifi.deps.json
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders12StringSinifi\bin\Debug\netcoreapp3.1\Ders12StringSinifi.runtimeconfig.json
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders12StringSinifi\bin\Debug\netcoreapp3.1\Ders12StringSinifi.runtimeconfig.dev.json
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders12StringSinifi\bin\Debug\netcoreapp3.1\Ders12StringSinifi.dll
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders12StringSinifi\bin\Debug\netcoreapp3.1\Ders12StringSinifi.pdb
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders12StringSinifi\obj\Debug\netcoreapp3.1\Ders12StringSinifi.csproj.AssemblyReference.cache
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders12StringSinifi\obj\Debug\netcoreapp3.1\Ders12StringSinifi.GeneratedMSBuildEditorConfig.editorconfig
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders12StringSinifi\obj\Debug\netcoreapp3.1\Ders12StringSinifi.AssemblyInfoInputs.cache
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders12StringSinifi\obj\Debug\netcoreapp3.1\Ders12StringSinifi.AssemblyInfo.cs
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders12StringSinifi\obj\Debug\netcoreapp3.1\Ders12StringSinifi.csproj.CoreCompileInputs.cache
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders12StringSinifi\obj\Debug\netcoreapp3.1\Ders12StringSinifi.dll
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders12StringSinifi\obj\Debug\netcoreapp3.1\Ders12StringSinifi.pdb
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders12StringSinifi\obj\Debug\netcoreapp3.1\Ders12StringSinifi.genruntimeconfig.cache

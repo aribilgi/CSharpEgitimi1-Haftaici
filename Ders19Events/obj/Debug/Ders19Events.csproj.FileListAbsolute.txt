@@ -1,0 +1,7 @@
+D:\CSharpEgitimi\Ders19Events\bin\Debug\Ders19Events.exe.config
+D:\CSharpEgitimi\Ders19Events\bin\Debug\Ders19Events.exe
+D:\CSharpEgitimi\Ders19Events\bin\Debug\Ders19Events.pdb
+D:\CSharpEgitimi\Ders19Events\obj\Debug\Ders19Events.csproj.AssemblyReference.cache
+D:\CSharpEgitimi\Ders19Events\obj\Debug\Ders19Events.csproj.CoreCompileInputs.cache
+D:\CSharpEgitimi\Ders19Events\obj\Debug\Ders19Events.exe
+D:\CSharpEgitimi\Ders19Events\obj\Debug\Ders19Events.pdb

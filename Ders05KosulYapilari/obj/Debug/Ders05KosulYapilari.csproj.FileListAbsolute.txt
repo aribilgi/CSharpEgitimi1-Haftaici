@@ -1,0 +1,7 @@
+D:\CSharpEgitimi\Ders05KosulYapilari\bin\Debug\Ders05KosulYapilari.exe.config
+D:\CSharpEgitimi\Ders05KosulYapilari\bin\Debug\Ders05KosulYapilari.exe
+D:\CSharpEgitimi\Ders05KosulYapilari\bin\Debug\Ders05KosulYapilari.pdb
+D:\CSharpEgitimi\Ders05KosulYapilari\obj\Debug\Ders05KosulYapilari.csprojAssemblyReference.cache
+D:\CSharpEgitimi\Ders05KosulYapilari\obj\Debug\Ders05KosulYapilari.csproj.CoreCompileInputs.cache
+D:\CSharpEgitimi\Ders05KosulYapilari\obj\Debug\Ders05KosulYapilari.exe
+D:\CSharpEgitimi\Ders05KosulYapilari\obj\Debug\Ders05KosulYapilari.pdb

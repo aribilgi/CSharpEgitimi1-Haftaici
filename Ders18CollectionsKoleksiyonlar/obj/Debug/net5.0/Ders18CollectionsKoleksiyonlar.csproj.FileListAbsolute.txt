@@ -1,0 +1,16 @@
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders18CollectionsKoleksiyonlar\bin\Debug\net5.0\Ders18CollectionsKoleksiyonlar.exe
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders18CollectionsKoleksiyonlar\bin\Debug\net5.0\Ders18CollectionsKoleksiyonlar.deps.json
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders18CollectionsKoleksiyonlar\bin\Debug\net5.0\Ders18CollectionsKoleksiyonlar.runtimeconfig.json
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders18CollectionsKoleksiyonlar\bin\Debug\net5.0\Ders18CollectionsKoleksiyonlar.runtimeconfig.dev.json
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders18CollectionsKoleksiyonlar\bin\Debug\net5.0\Ders18CollectionsKoleksiyonlar.dll
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders18CollectionsKoleksiyonlar\bin\Debug\net5.0\ref\Ders18CollectionsKoleksiyonlar.dll
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders18CollectionsKoleksiyonlar\bin\Debug\net5.0\Ders18CollectionsKoleksiyonlar.pdb
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders18CollectionsKoleksiyonlar\obj\Debug\net5.0\Ders18CollectionsKoleksiyonlar.csproj.AssemblyReference.cache
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders18CollectionsKoleksiyonlar\obj\Debug\net5.0\Ders18CollectionsKoleksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders18CollectionsKoleksiyonlar\obj\Debug\net5.0\Ders18CollectionsKoleksiyonlar.AssemblyInfoInputs.cache
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders18CollectionsKoleksiyonlar\obj\Debug\net5.0\Ders18CollectionsKoleksiyonlar.AssemblyInfo.cs
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders18CollectionsKoleksiyonlar\obj\Debug\net5.0\Ders18CollectionsKoleksiyonlar.csproj.CoreCompileInputs.cache
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders18CollectionsKoleksiyonlar\obj\Debug\net5.0\Ders18CollectionsKoleksiyonlar.dll
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders18CollectionsKoleksiyonlar\obj\Debug\net5.0\ref\Ders18CollectionsKoleksiyonlar.dll
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders18CollectionsKoleksiyonlar\obj\Debug\net5.0\Ders18CollectionsKoleksiyonlar.pdb
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders18CollectionsKoleksiyonlar\obj\Debug\net5.0\Ders18CollectionsKoleksiyonlar.genruntimeconfig.cache

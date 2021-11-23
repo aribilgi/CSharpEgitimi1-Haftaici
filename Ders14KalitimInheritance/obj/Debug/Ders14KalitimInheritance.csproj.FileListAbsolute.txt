@@ -1,0 +1,7 @@
+D:\CSharpEgitimi\Ders14KalitimInheritance\bin\Debug\Ders14KalitimInheritance.exe.config
+D:\CSharpEgitimi\Ders14KalitimInheritance\bin\Debug\Ders14KalitimInheritance.exe
+D:\CSharpEgitimi\Ders14KalitimInheritance\bin\Debug\Ders14KalitimInheritance.pdb
+D:\CSharpEgitimi\Ders14KalitimInheritance\obj\Debug\Ders14KalitimInheritance.csproj.AssemblyReference.cache
+D:\CSharpEgitimi\Ders14KalitimInheritance\obj\Debug\Ders14KalitimInheritance.csproj.CoreCompileInputs.cache
+D:\CSharpEgitimi\Ders14KalitimInheritance\obj\Debug\Ders14KalitimInheritance.exe
+D:\CSharpEgitimi\Ders14KalitimInheritance\obj\Debug\Ders14KalitimInheritance.pdb

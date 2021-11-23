@@ -1,0 +1,7 @@
+D:\CSharpEgitimi\Ders06Donguler\bin\Debug\Ders06Donguler.exe.config
+D:\CSharpEgitimi\Ders06Donguler\bin\Debug\Ders06Donguler.exe
+D:\CSharpEgitimi\Ders06Donguler\bin\Debug\Ders06Donguler.pdb
+D:\CSharpEgitimi\Ders06Donguler\obj\Debug\Ders06Donguler.csproj.CoreCompileInputs.cache
+D:\CSharpEgitimi\Ders06Donguler\obj\Debug\Ders06Donguler.exe
+D:\CSharpEgitimi\Ders06Donguler\obj\Debug\Ders06Donguler.pdb
+D:\CSharpEgitimi\Ders06Donguler\obj\Debug\Ders06Donguler.csprojAssemblyReference.cache

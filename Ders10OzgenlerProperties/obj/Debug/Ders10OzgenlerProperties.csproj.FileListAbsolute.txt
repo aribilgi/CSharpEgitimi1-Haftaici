@@ -1,0 +1,7 @@
+D:\CSharpEgitimi\Ders10OzgenlerProperties\bin\Debug\Ders10OzgenlerProperties.exe.config
+D:\CSharpEgitimi\Ders10OzgenlerProperties\bin\Debug\Ders10OzgenlerProperties.exe
+D:\CSharpEgitimi\Ders10OzgenlerProperties\bin\Debug\Ders10OzgenlerProperties.pdb
+D:\CSharpEgitimi\Ders10OzgenlerProperties\obj\Debug\Ders10OzgenlerProperties.csproj.AssemblyReference.cache
+D:\CSharpEgitimi\Ders10OzgenlerProperties\obj\Debug\Ders10OzgenlerProperties.csproj.CoreCompileInputs.cache
+D:\CSharpEgitimi\Ders10OzgenlerProperties\obj\Debug\Ders10OzgenlerProperties.exe
+D:\CSharpEgitimi\Ders10OzgenlerProperties\obj\Debug\Ders10OzgenlerProperties.pdb

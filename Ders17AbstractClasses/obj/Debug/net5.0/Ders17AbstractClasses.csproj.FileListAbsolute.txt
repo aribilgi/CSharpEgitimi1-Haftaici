@@ -1,0 +1,16 @@
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders17AbstractClasses\bin\Debug\net5.0\Ders17AbstractClasses.exe
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders17AbstractClasses\bin\Debug\net5.0\Ders17AbstractClasses.deps.json
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders17AbstractClasses\bin\Debug\net5.0\Ders17AbstractClasses.runtimeconfig.json
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders17AbstractClasses\bin\Debug\net5.0\Ders17AbstractClasses.runtimeconfig.dev.json
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders17AbstractClasses\bin\Debug\net5.0\Ders17AbstractClasses.dll
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders17AbstractClasses\bin\Debug\net5.0\ref\Ders17AbstractClasses.dll
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders17AbstractClasses\bin\Debug\net5.0\Ders17AbstractClasses.pdb
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders17AbstractClasses\obj\Debug\net5.0\Ders17AbstractClasses.csproj.AssemblyReference.cache
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders17AbstractClasses\obj\Debug\net5.0\Ders17AbstractClasses.GeneratedMSBuildEditorConfig.editorconfig
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders17AbstractClasses\obj\Debug\net5.0\Ders17AbstractClasses.AssemblyInfoInputs.cache
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders17AbstractClasses\obj\Debug\net5.0\Ders17AbstractClasses.AssemblyInfo.cs
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders17AbstractClasses\obj\Debug\net5.0\Ders17AbstractClasses.csproj.CoreCompileInputs.cache
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders17AbstractClasses\obj\Debug\net5.0\Ders17AbstractClasses.dll
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders17AbstractClasses\obj\Debug\net5.0\ref\Ders17AbstractClasses.dll
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders17AbstractClasses\obj\Debug\net5.0\Ders17AbstractClasses.pdb
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders17AbstractClasses\obj\Debug\net5.0\Ders17AbstractClasses.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders16InterfacesArayuzler\bin\Debug\net5.0\Ders16InterfacesArayuzler.exe
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders16InterfacesArayuzler\bin\Debug\net5.0\Ders16InterfacesArayuzler.deps.json
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders16InterfacesArayuzler\bin\Debug\net5.0\Ders16InterfacesArayuzler.runtimeconfig.json
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders16InterfacesArayuzler\bin\Debug\net5.0\Ders16InterfacesArayuzler.runtimeconfig.dev.json
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders16InterfacesArayuzler\bin\Debug\net5.0\Ders16InterfacesArayuzler.dll
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders16InterfacesArayuzler\bin\Debug\net5.0\ref\Ders16InterfacesArayuzler.dll
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders16InterfacesArayuzler\bin\Debug\net5.0\Ders16InterfacesArayuzler.pdb
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders16InterfacesArayuzler\obj\Debug\net5.0\Ders16InterfacesArayuzler.csproj.AssemblyReference.cache
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders16InterfacesArayuzler\obj\Debug\net5.0\Ders16InterfacesArayuzler.GeneratedMSBuildEditorConfig.editorconfig
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders16InterfacesArayuzler\obj\Debug\net5.0\Ders16InterfacesArayuzler.AssemblyInfoInputs.cache
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders16InterfacesArayuzler\obj\Debug\net5.0\Ders16InterfacesArayuzler.AssemblyInfo.cs
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders16InterfacesArayuzler\obj\Debug\net5.0\Ders16InterfacesArayuzler.csproj.CoreCompileInputs.cache
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders16InterfacesArayuzler\obj\Debug\net5.0\Ders16InterfacesArayuzler.dll
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders16InterfacesArayuzler\obj\Debug\net5.0\ref\Ders16InterfacesArayuzler.dll
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders16InterfacesArayuzler\obj\Debug\net5.0\Ders16InterfacesArayuzler.pdb
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders16InterfacesArayuzler\obj\Debug\net5.0\Ders16InterfacesArayuzler.genruntimeconfig.cache

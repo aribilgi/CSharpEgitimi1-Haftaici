@@ -1,0 +1,7 @@
+D:\CSharpEgitimi\ilkProjemiz\bin\Debug\ilkProjemiz.exe.config
+D:\CSharpEgitimi\ilkProjemiz\bin\Debug\ilkProjemiz.exe
+D:\CSharpEgitimi\ilkProjemiz\bin\Debug\ilkProjemiz.pdb
+D:\CSharpEgitimi\ilkProjemiz\obj\Debug\ilkProjemiz.csprojAssemblyReference.cache
+D:\CSharpEgitimi\ilkProjemiz\obj\Debug\ilkProjemiz.csproj.CoreCompileInputs.cache
+D:\CSharpEgitimi\ilkProjemiz\obj\Debug\ilkProjemiz.exe
+D:\CSharpEgitimi\ilkProjemiz\obj\Debug\ilkProjemiz.pdb

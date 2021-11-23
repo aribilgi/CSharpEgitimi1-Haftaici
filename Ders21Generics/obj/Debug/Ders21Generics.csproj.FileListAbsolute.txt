@@ -1,0 +1,7 @@
+D:\CSharpEgitimi\Ders21Generics\bin\Debug\Ders21Generics.exe.config
+D:\CSharpEgitimi\Ders21Generics\bin\Debug\Ders21Generics.exe
+D:\CSharpEgitimi\Ders21Generics\bin\Debug\Ders21Generics.pdb
+D:\CSharpEgitimi\Ders21Generics\obj\Debug\Ders21Generics.csproj.AssemblyReference.cache
+D:\CSharpEgitimi\Ders21Generics\obj\Debug\Ders21Generics.csproj.CoreCompileInputs.cache
+D:\CSharpEgitimi\Ders21Generics\obj\Debug\Ders21Generics.exe
+D:\CSharpEgitimi\Ders21Generics\obj\Debug\Ders21Generics.pdb

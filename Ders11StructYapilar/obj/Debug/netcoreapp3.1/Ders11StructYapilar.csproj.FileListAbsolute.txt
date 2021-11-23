@@ -1,0 +1,14 @@
+\\P1041\paylasim\CSharpEgitimi\Ders11StructYapilar\bin\Debug\netcoreapp3.1\Ders11StructYapilar.exe
+\\P1041\paylasim\CSharpEgitimi\Ders11StructYapilar\bin\Debug\netcoreapp3.1\Ders11StructYapilar.deps.json
+\\P1041\paylasim\CSharpEgitimi\Ders11StructYapilar\bin\Debug\netcoreapp3.1\Ders11StructYapilar.runtimeconfig.json
+\\P1041\paylasim\CSharpEgitimi\Ders11StructYapilar\bin\Debug\netcoreapp3.1\Ders11StructYapilar.runtimeconfig.dev.json
+\\P1041\paylasim\CSharpEgitimi\Ders11StructYapilar\bin\Debug\netcoreapp3.1\Ders11StructYapilar.dll
+\\P1041\paylasim\CSharpEgitimi\Ders11StructYapilar\bin\Debug\netcoreapp3.1\Ders11StructYapilar.pdb
+\\P1041\paylasim\CSharpEgitimi\Ders11StructYapilar\obj\Debug\netcoreapp3.1\Ders11StructYapilar.csproj.AssemblyReference.cache
+\\P1041\paylasim\CSharpEgitimi\Ders11StructYapilar\obj\Debug\netcoreapp3.1\Ders11StructYapilar.GeneratedMSBuildEditorConfig.editorconfig
+\\P1041\paylasim\CSharpEgitimi\Ders11StructYapilar\obj\Debug\netcoreapp3.1\Ders11StructYapilar.AssemblyInfoInputs.cache
+\\P1041\paylasim\CSharpEgitimi\Ders11StructYapilar\obj\Debug\netcoreapp3.1\Ders11StructYapilar.AssemblyInfo.cs
+\\P1041\paylasim\CSharpEgitimi\Ders11StructYapilar\obj\Debug\netcoreapp3.1\Ders11StructYapilar.csproj.CoreCompileInputs.cache
+\\P1041\paylasim\CSharpEgitimi\Ders11StructYapilar\obj\Debug\netcoreapp3.1\Ders11StructYapilar.dll
+\\P1041\paylasim\CSharpEgitimi\Ders11StructYapilar\obj\Debug\netcoreapp3.1\Ders11StructYapilar.pdb
+\\P1041\paylasim\CSharpEgitimi\Ders11StructYapilar\obj\Debug\netcoreapp3.1\Ders11StructYapilar.genruntimeconfig.cache

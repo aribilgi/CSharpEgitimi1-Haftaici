@@ -1,0 +1,15 @@
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi\Ders02Diziler\bin\Debug\net5.0\Ders02Diziler.exe
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi\Ders02Diziler\bin\Debug\net5.0\Ders02Diziler.deps.json
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi\Ders02Diziler\bin\Debug\net5.0\Ders02Diziler.runtimeconfig.json
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi\Ders02Diziler\bin\Debug\net5.0\Ders02Diziler.runtimeconfig.dev.json
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi\Ders02Diziler\bin\Debug\net5.0\Ders02Diziler.dll
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi\Ders02Diziler\bin\Debug\net5.0\ref\Ders02Diziler.dll
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi\Ders02Diziler\bin\Debug\net5.0\Ders02Diziler.pdb
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi\Ders02Diziler\obj\Debug\net5.0\Ders02Diziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi\Ders02Diziler\obj\Debug\net5.0\Ders02Diziler.AssemblyInfoInputs.cache
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi\Ders02Diziler\obj\Debug\net5.0\Ders02Diziler.AssemblyInfo.cs
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi\Ders02Diziler\obj\Debug\net5.0\Ders02Diziler.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi\Ders02Diziler\obj\Debug\net5.0\Ders02Diziler.dll
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi\Ders02Diziler\obj\Debug\net5.0\ref\Ders02Diziler.dll
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi\Ders02Diziler\obj\Debug\net5.0\Ders02Diziler.pdb
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi\Ders02Diziler\obj\Debug\net5.0\Ders02Diziler.genruntimeconfig.cache

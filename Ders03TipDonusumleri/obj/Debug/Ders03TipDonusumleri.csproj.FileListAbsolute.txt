@@ -1,0 +1,6 @@
+D:\CSharpEgitimi\Ders03TipDonusumleri\bin\Debug\Ders03TipDonusumleri.exe.config
+D:\CSharpEgitimi\Ders03TipDonusumleri\bin\Debug\Ders03TipDonusumleri.exe
+D:\CSharpEgitimi\Ders03TipDonusumleri\bin\Debug\Ders03TipDonusumleri.pdb
+D:\CSharpEgitimi\Ders03TipDonusumleri\obj\Debug\Ders03TipDonusumleri.csproj.CoreCompileInputs.cache
+D:\CSharpEgitimi\Ders03TipDonusumleri\obj\Debug\Ders03TipDonusumleri.exe
+D:\CSharpEgitimi\Ders03TipDonusumleri\obj\Debug\Ders03TipDonusumleri.pdb

@@ -1,0 +1,15 @@
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi\Ders05KosulYapilari\bin\Debug\net5.0\Ders05KosulYapilari.exe
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi\Ders05KosulYapilari\bin\Debug\net5.0\Ders05KosulYapilari.deps.json
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi\Ders05KosulYapilari\bin\Debug\net5.0\Ders05KosulYapilari.runtimeconfig.json
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi\Ders05KosulYapilari\bin\Debug\net5.0\Ders05KosulYapilari.runtimeconfig.dev.json
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi\Ders05KosulYapilari\bin\Debug\net5.0\Ders05KosulYapilari.dll
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi\Ders05KosulYapilari\bin\Debug\net5.0\ref\Ders05KosulYapilari.dll
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi\Ders05KosulYapilari\bin\Debug\net5.0\Ders05KosulYapilari.pdb
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi\Ders05KosulYapilari\obj\Debug\net5.0\Ders05KosulYapilari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi\Ders05KosulYapilari\obj\Debug\net5.0\Ders05KosulYapilari.AssemblyInfoInputs.cache
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi\Ders05KosulYapilari\obj\Debug\net5.0\Ders05KosulYapilari.AssemblyInfo.cs
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi\Ders05KosulYapilari\obj\Debug\net5.0\Ders05KosulYapilari.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi\Ders05KosulYapilari\obj\Debug\net5.0\Ders05KosulYapilari.dll
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi\Ders05KosulYapilari\obj\Debug\net5.0\ref\Ders05KosulYapilari.dll
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi\Ders05KosulYapilari\obj\Debug\net5.0\Ders05KosulYapilari.pdb
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi\Ders05KosulYapilari\obj\Debug\net5.0\Ders05KosulYapilari.genruntimeconfig.cache

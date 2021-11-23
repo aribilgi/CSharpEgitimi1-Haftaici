@@ -1,0 +1,16 @@
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders09ErisimBelirleyiciler\bin\Debug\net5.0\Ders09ErisimBelirleyiciler.exe
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders09ErisimBelirleyiciler\bin\Debug\net5.0\Ders09ErisimBelirleyiciler.deps.json
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders09ErisimBelirleyiciler\bin\Debug\net5.0\Ders09ErisimBelirleyiciler.runtimeconfig.json
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders09ErisimBelirleyiciler\bin\Debug\net5.0\Ders09ErisimBelirleyiciler.runtimeconfig.dev.json
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders09ErisimBelirleyiciler\bin\Debug\net5.0\Ders09ErisimBelirleyiciler.dll
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders09ErisimBelirleyiciler\bin\Debug\net5.0\ref\Ders09ErisimBelirleyiciler.dll
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders09ErisimBelirleyiciler\bin\Debug\net5.0\Ders09ErisimBelirleyiciler.pdb
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders09ErisimBelirleyiciler\obj\Debug\net5.0\Ders09ErisimBelirleyiciler.csproj.AssemblyReference.cache
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders09ErisimBelirleyiciler\obj\Debug\net5.0\Ders09ErisimBelirleyiciler.GeneratedMSBuildEditorConfig.editorconfig
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders09ErisimBelirleyiciler\obj\Debug\net5.0\Ders09ErisimBelirleyiciler.AssemblyInfoInputs.cache
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders09ErisimBelirleyiciler\obj\Debug\net5.0\Ders09ErisimBelirleyiciler.AssemblyInfo.cs
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders09ErisimBelirleyiciler\obj\Debug\net5.0\Ders09ErisimBelirleyiciler.csproj.CoreCompileInputs.cache
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders09ErisimBelirleyiciler\obj\Debug\net5.0\Ders09ErisimBelirleyiciler.dll
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders09ErisimBelirleyiciler\obj\Debug\net5.0\ref\Ders09ErisimBelirleyiciler.dll
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders09ErisimBelirleyiciler\obj\Debug\net5.0\Ders09ErisimBelirleyiciler.pdb
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders09ErisimBelirleyiciler\obj\Debug\net5.0\Ders09ErisimBelirleyiciler.genruntimeconfig.cache

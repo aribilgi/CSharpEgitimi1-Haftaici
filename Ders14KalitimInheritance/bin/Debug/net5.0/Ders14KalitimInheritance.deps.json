@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ders14KalitimInheritance/1.0.0": {
+        "runtime": {
+          "Ders14KalitimInheritance.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ders14KalitimInheritance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

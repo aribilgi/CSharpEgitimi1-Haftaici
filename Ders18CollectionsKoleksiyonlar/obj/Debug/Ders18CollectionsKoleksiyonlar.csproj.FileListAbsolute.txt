@@ -1,0 +1,7 @@
+D:\CSharpEgitimi\Ders18CollectionsKoleksiyonlar\bin\Debug\Ders18CollectionsKoleksiyonlar.exe.config
+D:\CSharpEgitimi\Ders18CollectionsKoleksiyonlar\bin\Debug\Ders18CollectionsKoleksiyonlar.exe
+D:\CSharpEgitimi\Ders18CollectionsKoleksiyonlar\bin\Debug\Ders18CollectionsKoleksiyonlar.pdb
+D:\CSharpEgitimi\Ders18CollectionsKoleksiyonlar\obj\Debug\Ders18CollectionsKoleksiyonlar.csproj.AssemblyReference.cache
+D:\CSharpEgitimi\Ders18CollectionsKoleksiyonlar\obj\Debug\Ders18CollectionsKoleksiyonlar.csproj.CoreCompileInputs.cache
+D:\CSharpEgitimi\Ders18CollectionsKoleksiyonlar\obj\Debug\Ders18CollectionsKoleksiyonlar.exe
+D:\CSharpEgitimi\Ders18CollectionsKoleksiyonlar\obj\Debug\Ders18CollectionsKoleksiyonlar.pdb

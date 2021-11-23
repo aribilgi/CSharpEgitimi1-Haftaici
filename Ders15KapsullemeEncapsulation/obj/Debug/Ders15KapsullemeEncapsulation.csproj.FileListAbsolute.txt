@@ -1,0 +1,7 @@
+D:\CSharpEgitimi\Ders15KapsullemeEncapsulation\bin\Debug\Ders15KapsullemeEncapsulation.exe.config
+D:\CSharpEgitimi\Ders15KapsullemeEncapsulation\bin\Debug\Ders15KapsullemeEncapsulation.exe
+D:\CSharpEgitimi\Ders15KapsullemeEncapsulation\bin\Debug\Ders15KapsullemeEncapsulation.pdb
+D:\CSharpEgitimi\Ders15KapsullemeEncapsulation\obj\Debug\Ders15KapsullemeEncapsulation.csproj.AssemblyReference.cache
+D:\CSharpEgitimi\Ders15KapsullemeEncapsulation\obj\Debug\Ders15KapsullemeEncapsulation.csproj.CoreCompileInputs.cache
+D:\CSharpEgitimi\Ders15KapsullemeEncapsulation\obj\Debug\Ders15KapsullemeEncapsulation.exe
+D:\CSharpEgitimi\Ders15KapsullemeEncapsulation\obj\Debug\Ders15KapsullemeEncapsulation.pdb

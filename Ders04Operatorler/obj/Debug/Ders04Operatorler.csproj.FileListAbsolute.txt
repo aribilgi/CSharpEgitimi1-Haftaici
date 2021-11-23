@@ -1,0 +1,7 @@
+D:\CSharpEgitimi\Ders04Operatorler\bin\Debug\Ders04Operatorler.exe.config
+D:\CSharpEgitimi\Ders04Operatorler\bin\Debug\Ders04Operatorler.exe
+D:\CSharpEgitimi\Ders04Operatorler\bin\Debug\Ders04Operatorler.pdb
+D:\CSharpEgitimi\Ders04Operatorler\obj\Debug\Ders04Operatorler.csproj.CoreCompileInputs.cache
+D:\CSharpEgitimi\Ders04Operatorler\obj\Debug\Ders04Operatorler.exe
+D:\CSharpEgitimi\Ders04Operatorler\obj\Debug\Ders04Operatorler.pdb
+D:\CSharpEgitimi\Ders04Operatorler\obj\Debug\Ders04Operatorler.csprojAssemblyReference.cache

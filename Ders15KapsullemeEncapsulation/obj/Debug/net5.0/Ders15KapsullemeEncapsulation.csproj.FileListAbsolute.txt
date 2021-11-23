@@ -1,0 +1,16 @@
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders15KapsullemeEncapsulation\bin\Debug\net5.0\Ders15KapsullemeEncapsulation.exe
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders15KapsullemeEncapsulation\bin\Debug\net5.0\Ders15KapsullemeEncapsulation.deps.json
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders15KapsullemeEncapsulation\bin\Debug\net5.0\Ders15KapsullemeEncapsulation.runtimeconfig.json
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders15KapsullemeEncapsulation\bin\Debug\net5.0\Ders15KapsullemeEncapsulation.runtimeconfig.dev.json
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders15KapsullemeEncapsulation\bin\Debug\net5.0\Ders15KapsullemeEncapsulation.dll
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders15KapsullemeEncapsulation\bin\Debug\net5.0\ref\Ders15KapsullemeEncapsulation.dll
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders15KapsullemeEncapsulation\bin\Debug\net5.0\Ders15KapsullemeEncapsulation.pdb
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders15KapsullemeEncapsulation\obj\Debug\net5.0\Ders15KapsullemeEncapsulation.csproj.AssemblyReference.cache
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders15KapsullemeEncapsulation\obj\Debug\net5.0\Ders15KapsullemeEncapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders15KapsullemeEncapsulation\obj\Debug\net5.0\Ders15KapsullemeEncapsulation.AssemblyInfoInputs.cache
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders15KapsullemeEncapsulation\obj\Debug\net5.0\Ders15KapsullemeEncapsulation.AssemblyInfo.cs
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders15KapsullemeEncapsulation\obj\Debug\net5.0\Ders15KapsullemeEncapsulation.csproj.CoreCompileInputs.cache
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders15KapsullemeEncapsulation\obj\Debug\net5.0\Ders15KapsullemeEncapsulation.dll
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders15KapsullemeEncapsulation\obj\Debug\net5.0\ref\Ders15KapsullemeEncapsulation.dll
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders15KapsullemeEncapsulation\obj\Debug\net5.0\Ders15KapsullemeEncapsulation.pdb
+D:\EĞİTMEN YEDEK\Yazilim\CSharpEgitimi\Ders15KapsullemeEncapsulation\obj\Debug\net5.0\Ders15KapsullemeEncapsulation.genruntimeconfig.cache

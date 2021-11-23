@@ -1,0 +1,42 @@
+D:\CSharpEgitimi\WindowsForms\bin\Debug\WindowsForms.exe.config
+D:\CSharpEgitimi\WindowsForms\bin\Debug\WindowsForms.exe
+D:\CSharpEgitimi\WindowsForms\bin\Debug\WindowsForms.pdb
+D:\CSharpEgitimi\WindowsForms\obj\Debug\WindowsForms.csproj.AssemblyReference.cache
+D:\CSharpEgitimi\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+D:\CSharpEgitimi\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.cache
+D:\CSharpEgitimi\WindowsForms\obj\Debug\WindowsForms.csproj.CoreCompileInputs.cache
+D:\CSharpEgitimi\WindowsForms\obj\Debug\WindowsForms.exe
+D:\CSharpEgitimi\WindowsForms\obj\Debug\WindowsForms.pdb
+D:\CSharpEgitimi\WindowsForms\obj\Debug\WindowsForms.Form1.resources
+D:\CSharpEgitimi\WindowsForms\obj\Debug\WindowsForms.Form2.resources
+D:\CSharpEgitimi\WindowsForms\obj\Debug\WindowsForms.Form3.resources
+D:\CSharpEgitimi\WindowsForms\obj\Debug\WindowsForms.Form4.resources
+D:\CSharpEgitimi\WindowsForms\obj\Debug\WindowsForms.Form5.resources
+D:\CSharpEgitimi\WindowsForms\obj\Debug\WindowsForms.Form6.resources
+D:\CSharpEgitimi\WindowsForms\obj\Debug\WindowsForms.Form7.resources
+D:\CSharpEgitimi\WindowsForms\obj\Debug\WindowsForms.Form8.resources
+D:\CSharpEgitimi\WindowsForms\obj\Debug\WindowsForms.Form9.resources
+D:\CSharpEgitimi\WindowsForms\obj\Debug\WindowsForms.Form10.resources
+D:\EĞİTMEN YEDEK\CSharpEgitimi\WindowsForms\bin\Debug\WindowsForms.exe.config
+D:\EĞİTMEN YEDEK\CSharpEgitimi\WindowsForms\bin\Debug\WindowsForms.exe
+D:\EĞİTMEN YEDEK\CSharpEgitimi\WindowsForms\bin\Debug\WindowsForms.pdb
+D:\EĞİTMEN YEDEK\CSharpEgitimi\WindowsForms\obj\Debug\WindowsForms.csproj.AssemblyReference.cache
+D:\EĞİTMEN YEDEK\CSharpEgitimi\WindowsForms\obj\Debug\WindowsForms.Form1.resources
+D:\EĞİTMEN YEDEK\CSharpEgitimi\WindowsForms\obj\Debug\WindowsForms.Form10.resources
+D:\EĞİTMEN YEDEK\CSharpEgitimi\WindowsForms\obj\Debug\WindowsForms.Form2.resources
+D:\EĞİTMEN YEDEK\CSharpEgitimi\WindowsForms\obj\Debug\WindowsForms.Form3.resources
+D:\EĞİTMEN YEDEK\CSharpEgitimi\WindowsForms\obj\Debug\WindowsForms.Form4.resources
+D:\EĞİTMEN YEDEK\CSharpEgitimi\WindowsForms\obj\Debug\WindowsForms.Form5.resources
+D:\EĞİTMEN YEDEK\CSharpEgitimi\WindowsForms\obj\Debug\WindowsForms.Form6.resources
+D:\EĞİTMEN YEDEK\CSharpEgitimi\WindowsForms\obj\Debug\WindowsForms.Form7.resources
+D:\EĞİTMEN YEDEK\CSharpEgitimi\WindowsForms\obj\Debug\WindowsForms.Form8.resources
+D:\EĞİTMEN YEDEK\CSharpEgitimi\WindowsForms\obj\Debug\WindowsForms.Form9.resources
+D:\EĞİTMEN YEDEK\CSharpEgitimi\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+D:\EĞİTMEN YEDEK\CSharpEgitimi\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.cache
+D:\EĞİTMEN YEDEK\CSharpEgitimi\WindowsForms\obj\Debug\WindowsForms.csproj.CoreCompileInputs.cache
+D:\EĞİTMEN YEDEK\CSharpEgitimi\WindowsForms\obj\Debug\WindowsForms.exe
+D:\EĞİTMEN YEDEK\CSharpEgitimi\WindowsForms\obj\Debug\WindowsForms.pdb
+D:\EĞİTMEN YEDEK\CSharpEgitimi\WindowsForms\obj\Debug\WindowsForms.Form11.resources
+D:\EĞİTMEN YEDEK\CSharpEgitimi\WindowsForms\obj\Debug\WindowsForms.Form12.resources
+D:\EĞİTMEN YEDEK\CSharpEgitimi\WindowsForms\obj\Debug\WindowsForms.Form13.resources
+D:\EĞİTMEN YEDEK\CSharpEgitimi\WindowsForms\obj\Debug\WindowsForms.Form14.resources
