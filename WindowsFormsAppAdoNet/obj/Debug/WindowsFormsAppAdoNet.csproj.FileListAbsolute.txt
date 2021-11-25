@@ -1,0 +1,10 @@
+D:\CSharpEgitimi\WindowsFormsAppAdoNet\bin\Debug\WindowsFormsAppAdoNet.exe.config
+D:\CSharpEgitimi\WindowsFormsAppAdoNet\bin\Debug\WindowsFormsAppAdoNet.exe
+D:\CSharpEgitimi\WindowsFormsAppAdoNet\bin\Debug\WindowsFormsAppAdoNet.pdb
+D:\CSharpEgitimi\WindowsFormsAppAdoNet\obj\Debug\WindowsFormsAppAdoNet.csproj.AssemblyReference.cache
+D:\CSharpEgitimi\WindowsFormsAppAdoNet\obj\Debug\WindowsFormsAppAdoNet.Form1.resources
+D:\CSharpEgitimi\WindowsFormsAppAdoNet\obj\Debug\WindowsFormsAppAdoNet.Properties.Resources.resources
+D:\CSharpEgitimi\WindowsFormsAppAdoNet\obj\Debug\WindowsFormsAppAdoNet.csproj.GenerateResource.cache
+D:\CSharpEgitimi\WindowsFormsAppAdoNet\obj\Debug\WindowsFormsAppAdoNet.csproj.CoreCompileInputs.cache
+D:\CSharpEgitimi\WindowsFormsAppAdoNet\obj\Debug\WindowsFormsAppAdoNet.exe
+D:\CSharpEgitimi\WindowsFormsAppAdoNet\obj\Debug\WindowsFormsAppAdoNet.pdb
