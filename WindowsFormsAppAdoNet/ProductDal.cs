@@ -69,5 +69,27 @@ namespace WindowsFormsAppAdoNet
             _connection.Close();
         }
 
+        public void Update(Product product)
+        {
+            ConnectionKontrol();
+            SqlCommand command = new SqlCommand(
+                "Update Products set UrunAdi=@UAdi, UrunFiyati=@UrunFiyati, StokMiktari=@StokMiktari where Id=@id", _connection);
+            command.Parameters.AddWithValue("@UAdi", product.UrunAdi);
+            command.Parameters.AddWithValue("@UrunFiyati", Convert.ToDecimal(product.UrunFiyati));
+            command.Parameters.AddWithValue("@StokMiktari", product.StokMiktari);
+            command.Parameters.AddWithValue("@id", product.Id);
+            command.ExecuteNonQuery();
+            _connection.Close();
+        }
+
+        public void Delete(int id)
+        {
+            ConnectionKontrol();
+            SqlCommand command = new SqlCommand("delete from Products where Id = @id", _connection);
+            command.Parameters.AddWithValue("@id", id);
+            command.ExecuteNonQuery();
+            _connection.Close();
+        }
+
     }
 }

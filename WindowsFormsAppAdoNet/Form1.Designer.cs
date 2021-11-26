@@ -31,13 +31,15 @@ namespace WindowsFormsAppAdoNet
         {
             this.DGVUrunListesi = new System.Windows.Forms.DataGridView();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.label1 = new System.Windows.Forms.Label();
-            this.TxtUrunAdi = new System.Windows.Forms.TextBox();
-            this.TxtUrunFiyati = new System.Windows.Forms.TextBox();
-            this.label2 = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
-            this.TxtStokMiktari = new System.Windows.Forms.TextBox();
             this.BtnKaydet = new System.Windows.Forms.Button();
+            this.TxtStokMiktari = new System.Windows.Forms.TextBox();
+            this.label3 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
+            this.TxtUrunFiyati = new System.Windows.Forms.TextBox();
+            this.TxtUrunAdi = new System.Windows.Forms.TextBox();
+            this.label1 = new System.Windows.Forms.Label();
+            this.BtnGuncelle = new System.Windows.Forms.Button();
+            this.BtnSil = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.DGVUrunListesi)).BeginInit();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
@@ -51,9 +53,12 @@ namespace WindowsFormsAppAdoNet
             this.DGVUrunListesi.RowTemplate.Height = 24;
             this.DGVUrunListesi.Size = new System.Drawing.Size(776, 207);
             this.DGVUrunListesi.TabIndex = 0;
+            this.DGVUrunListesi.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.DGVUrunListesi_CellClick);
             // 
             // groupBox1
             // 
+            this.groupBox1.Controls.Add(this.BtnSil);
+            this.groupBox1.Controls.Add(this.BtnGuncelle);
             this.groupBox1.Controls.Add(this.BtnKaydet);
             this.groupBox1.Controls.Add(this.TxtStokMiktari);
             this.groupBox1.Controls.Add(this.label3);
@@ -68,37 +73,22 @@ namespace WindowsFormsAppAdoNet
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Ürün Kayıt Sistemi";
             // 
-            // label1
+            // BtnKaydet
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(24, 48);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(63, 17);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "Ürün Adı";
+            this.BtnKaydet.Location = new System.Drawing.Point(30, 174);
+            this.BtnKaydet.Name = "BtnKaydet";
+            this.BtnKaydet.Size = new System.Drawing.Size(75, 23);
+            this.BtnKaydet.TabIndex = 6;
+            this.BtnKaydet.Text = "Ekle";
+            this.BtnKaydet.UseVisualStyleBackColor = true;
+            this.BtnKaydet.Click += new System.EventHandler(this.BtnKaydet_Click);
             // 
-            // TxtUrunAdi
+            // TxtStokMiktari
             // 
-            this.TxtUrunAdi.Location = new System.Drawing.Point(131, 45);
-            this.TxtUrunAdi.Name = "TxtUrunAdi";
-            this.TxtUrunAdi.Size = new System.Drawing.Size(100, 22);
-            this.TxtUrunAdi.TabIndex = 1;
-            // 
-            // TxtUrunFiyati
-            // 
-            this.TxtUrunFiyati.Location = new System.Drawing.Point(131, 91);
-            this.TxtUrunFiyati.Name = "TxtUrunFiyati";
-            this.TxtUrunFiyati.Size = new System.Drawing.Size(100, 22);
-            this.TxtUrunFiyati.TabIndex = 2;
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(27, 91);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(76, 17);
-            this.label2.TabIndex = 3;
-            this.label2.Text = "Ürün Fiyatı";
+            this.TxtStokMiktari.Location = new System.Drawing.Point(131, 135);
+            this.TxtStokMiktari.Name = "TxtStokMiktari";
+            this.TxtStokMiktari.Size = new System.Drawing.Size(100, 22);
+            this.TxtStokMiktari.TabIndex = 5;
             // 
             // label3
             // 
@@ -109,22 +99,57 @@ namespace WindowsFormsAppAdoNet
             this.label3.TabIndex = 4;
             this.label3.Text = "Stok Miktarı";
             // 
-            // TxtStokMiktari
+            // label2
             // 
-            this.TxtStokMiktari.Location = new System.Drawing.Point(131, 135);
-            this.TxtStokMiktari.Name = "TxtStokMiktari";
-            this.TxtStokMiktari.Size = new System.Drawing.Size(100, 22);
-            this.TxtStokMiktari.TabIndex = 5;
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(27, 91);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(76, 17);
+            this.label2.TabIndex = 3;
+            this.label2.Text = "Ürün Fiyatı";
             // 
-            // BtnKaydet
+            // TxtUrunFiyati
             // 
-            this.BtnKaydet.Location = new System.Drawing.Point(101, 175);
-            this.BtnKaydet.Name = "BtnKaydet";
-            this.BtnKaydet.Size = new System.Drawing.Size(75, 23);
-            this.BtnKaydet.TabIndex = 6;
-            this.BtnKaydet.Text = "Ekle";
-            this.BtnKaydet.UseVisualStyleBackColor = true;
-            this.BtnKaydet.Click += new System.EventHandler(this.BtnKaydet_Click);
+            this.TxtUrunFiyati.Location = new System.Drawing.Point(131, 91);
+            this.TxtUrunFiyati.Name = "TxtUrunFiyati";
+            this.TxtUrunFiyati.Size = new System.Drawing.Size(100, 22);
+            this.TxtUrunFiyati.TabIndex = 2;
+            // 
+            // TxtUrunAdi
+            // 
+            this.TxtUrunAdi.Location = new System.Drawing.Point(131, 45);
+            this.TxtUrunAdi.Name = "TxtUrunAdi";
+            this.TxtUrunAdi.Size = new System.Drawing.Size(100, 22);
+            this.TxtUrunAdi.TabIndex = 1;
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(24, 48);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(63, 17);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "Ürün Adı";
+            // 
+            // BtnGuncelle
+            // 
+            this.BtnGuncelle.Location = new System.Drawing.Point(111, 174);
+            this.BtnGuncelle.Name = "BtnGuncelle";
+            this.BtnGuncelle.Size = new System.Drawing.Size(96, 23);
+            this.BtnGuncelle.TabIndex = 7;
+            this.BtnGuncelle.Text = "Güncelle";
+            this.BtnGuncelle.UseVisualStyleBackColor = true;
+            this.BtnGuncelle.Click += new System.EventHandler(this.BtnGuncelle_Click);
+            // 
+            // BtnSil
+            // 
+            this.BtnSil.Location = new System.Drawing.Point(213, 174);
+            this.BtnSil.Name = "BtnSil";
+            this.BtnSil.Size = new System.Drawing.Size(75, 23);
+            this.BtnSil.TabIndex = 8;
+            this.BtnSil.Text = "Sil";
+            this.BtnSil.UseVisualStyleBackColor = true;
+            this.BtnSil.Click += new System.EventHandler(this.BtnSil_Click);
             // 
             // Form1
             // 
@@ -154,6 +179,8 @@ namespace WindowsFormsAppAdoNet
         private System.Windows.Forms.TextBox TxtStokMiktari;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Button BtnKaydet;
+        private System.Windows.Forms.Button BtnGuncelle;
+        private System.Windows.Forms.Button BtnSil;
     }
 }
 

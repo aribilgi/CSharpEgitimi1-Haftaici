@@ -8,3 +8,4 @@ D:\CSharpEgitimi\WindowsFormsAppAdoNet\obj\Debug\WindowsFormsAppAdoNet.csproj.Ge
 D:\CSharpEgitimi\WindowsFormsAppAdoNet\obj\Debug\WindowsFormsAppAdoNet.csproj.CoreCompileInputs.cache
 D:\CSharpEgitimi\WindowsFormsAppAdoNet\obj\Debug\WindowsFormsAppAdoNet.exe
 D:\CSharpEgitimi\WindowsFormsAppAdoNet\obj\Debug\WindowsFormsAppAdoNet.pdb
+D:\CSharpEgitimi\WindowsFormsAppAdoNet\obj\Debug\WindowsFormsAppAdoNet.Form2.resources

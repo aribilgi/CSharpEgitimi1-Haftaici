@@ -35,5 +35,37 @@ namespace WindowsFormsAppAdoNet
             DGVUrunListesi.DataSource = productDal.GetAll();
             MessageBox.Show("Ürün Başarıyla Eklendi");
         }
+
+        private void DGVUrunListesi_CellClick(object sender, DataGridViewCellEventArgs e)
+        {
+            TxtUrunAdi.Text = DGVUrunListesi.CurrentRow.Cells[1].Value.ToString();
+            TxtUrunFiyati.Text = DGVUrunListesi.CurrentRow.Cells[2].Value.ToString();
+            TxtStokMiktari.Text = DGVUrunListesi.CurrentRow.Cells[3].Value.ToString();
+        }
+
+        private void BtnGuncelle_Click(object sender, EventArgs e)
+        {
+            productDal.Update(
+                new Product
+                {
+                    Id = Convert.ToInt32(DGVUrunListesi.CurrentRow.Cells[0].Value),
+                    UrunAdi = TxtUrunAdi.Text,
+                    StokMiktari = Convert.ToInt32(TxtStokMiktari.Text),
+                    UrunFiyati = Convert.ToDecimal(TxtUrunFiyati.Text)
+                }
+                );
+            DGVUrunListesi.DataSource = productDal.GetAll();
+            MessageBox.Show("Ürün Başarıyla Güncellendi");
+        }
+
+        private void BtnSil_Click(object sender, EventArgs e)
+        {
+            if (MessageBox.Show("Silmek İstediğinize Emin Misiniz?", "Uyarı", MessageBoxButtons.YesNo, MessageBoxIcon.Information) == DialogResult.Yes)
+            {
+                productDal.Delete(Convert.ToInt32(DGVUrunListesi.CurrentRow.Cells[0].Value));
+                DGVUrunListesi.DataSource = productDal.GetAll();
+                MessageBox.Show("Ürün Başarıyla Silindi");
+            }
+        }
     }
 }
