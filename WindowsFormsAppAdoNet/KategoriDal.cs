@@ -42,5 +42,25 @@ namespace WindowsFormsAppAdoNet
             _connection.Close();
         }
 
+        public void Update(Kategori kategori)
+        {
+            ConnectionKontrol();
+            SqlCommand command = new SqlCommand("Update Kategoriler set KategoriAdi=@KatAdi, Durum=@Durum where Id=@id", _connection);
+            command.Parameters.AddWithValue("@KatAdi", kategori.KategoriAdi);
+            command.Parameters.AddWithValue("@Durum", Convert.ToBoolean(kategori.Durum));
+            command.Parameters.AddWithValue("@id", kategori.Id);
+            command.ExecuteNonQuery();
+            _connection.Close();
+        }
+
+        public void Delete(int id)
+        {
+            ConnectionKontrol();
+            SqlCommand command = new SqlCommand("delete from Kategoriler where Id = @id", _connection);
+            command.Parameters.AddWithValue("@id", id);
+            command.ExecuteNonQuery();
+            _connection.Close();
+        }
+
     }
 }

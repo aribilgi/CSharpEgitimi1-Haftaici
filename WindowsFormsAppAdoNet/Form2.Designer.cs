@@ -31,12 +31,12 @@ namespace WindowsFormsAppAdoNet
         {
             this.DgvKategoriler = new System.Windows.Forms.DataGridView();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.label1 = new System.Windows.Forms.Label();
-            this.TxtKategoriAdi = new System.Windows.Forms.TextBox();
-            this.CbDurum = new System.Windows.Forms.CheckBox();
-            this.BtnKaydet = new System.Windows.Forms.Button();
-            this.BtnGuncelle = new System.Windows.Forms.Button();
             this.BtnSil = new System.Windows.Forms.Button();
+            this.BtnGuncelle = new System.Windows.Forms.Button();
+            this.BtnKaydet = new System.Windows.Forms.Button();
+            this.CbDurum = new System.Windows.Forms.CheckBox();
+            this.TxtKategoriAdi = new System.Windows.Forms.TextBox();
+            this.label1 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.DgvKategoriler)).BeginInit();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
@@ -67,31 +67,25 @@ namespace WindowsFormsAppAdoNet
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Kategori Bilgileri";
             // 
-            // label1
+            // BtnSil
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(34, 49);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(85, 17);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "Kategori Adı";
+            this.BtnSil.Location = new System.Drawing.Point(197, 144);
+            this.BtnSil.Name = "BtnSil";
+            this.BtnSil.Size = new System.Drawing.Size(75, 23);
+            this.BtnSil.TabIndex = 5;
+            this.BtnSil.Text = "Sil";
+            this.BtnSil.UseVisualStyleBackColor = true;
+            this.BtnSil.Click += new System.EventHandler(this.BtnSil_Click);
             // 
-            // TxtKategoriAdi
+            // BtnGuncelle
             // 
-            this.TxtKategoriAdi.Location = new System.Drawing.Point(154, 46);
-            this.TxtKategoriAdi.Name = "TxtKategoriAdi";
-            this.TxtKategoriAdi.Size = new System.Drawing.Size(100, 22);
-            this.TxtKategoriAdi.TabIndex = 1;
-            // 
-            // CbDurum
-            // 
-            this.CbDurum.AutoSize = true;
-            this.CbDurum.Location = new System.Drawing.Point(154, 98);
-            this.CbDurum.Name = "CbDurum";
-            this.CbDurum.Size = new System.Drawing.Size(72, 21);
-            this.CbDurum.TabIndex = 2;
-            this.CbDurum.Text = "Durum";
-            this.CbDurum.UseVisualStyleBackColor = true;
+            this.BtnGuncelle.Location = new System.Drawing.Point(106, 144);
+            this.BtnGuncelle.Name = "BtnGuncelle";
+            this.BtnGuncelle.Size = new System.Drawing.Size(85, 23);
+            this.BtnGuncelle.TabIndex = 4;
+            this.BtnGuncelle.Text = "Güncelle";
+            this.BtnGuncelle.UseVisualStyleBackColor = true;
+            this.BtnGuncelle.Click += new System.EventHandler(this.BtnGuncelle_Click);
             // 
             // BtnKaydet
             // 
@@ -103,23 +97,31 @@ namespace WindowsFormsAppAdoNet
             this.BtnKaydet.UseVisualStyleBackColor = true;
             this.BtnKaydet.Click += new System.EventHandler(this.BtnKaydet_Click);
             // 
-            // BtnGuncelle
+            // CbDurum
             // 
-            this.BtnGuncelle.Location = new System.Drawing.Point(106, 144);
-            this.BtnGuncelle.Name = "BtnGuncelle";
-            this.BtnGuncelle.Size = new System.Drawing.Size(75, 23);
-            this.BtnGuncelle.TabIndex = 4;
-            this.BtnGuncelle.Text = "Güncelle";
-            this.BtnGuncelle.UseVisualStyleBackColor = true;
+            this.CbDurum.AutoSize = true;
+            this.CbDurum.Location = new System.Drawing.Point(154, 98);
+            this.CbDurum.Name = "CbDurum";
+            this.CbDurum.Size = new System.Drawing.Size(72, 21);
+            this.CbDurum.TabIndex = 2;
+            this.CbDurum.Text = "Durum";
+            this.CbDurum.UseVisualStyleBackColor = true;
             // 
-            // BtnSil
+            // TxtKategoriAdi
             // 
-            this.BtnSil.Location = new System.Drawing.Point(187, 144);
-            this.BtnSil.Name = "BtnSil";
-            this.BtnSil.Size = new System.Drawing.Size(75, 23);
-            this.BtnSil.TabIndex = 5;
-            this.BtnSil.Text = "Sil";
-            this.BtnSil.UseVisualStyleBackColor = true;
+            this.TxtKategoriAdi.Location = new System.Drawing.Point(154, 46);
+            this.TxtKategoriAdi.Name = "TxtKategoriAdi";
+            this.TxtKategoriAdi.Size = new System.Drawing.Size(100, 22);
+            this.TxtKategoriAdi.TabIndex = 1;
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(34, 49);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(85, 17);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "Kategori Adı";
             // 
             // Form2
             // 
