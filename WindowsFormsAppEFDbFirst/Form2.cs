@@ -45,7 +45,7 @@ namespace WindowsFormsAppEFDbFirst
         {
             var kategori = urunYonetimi.Kategorilers.Find(Convert.ToInt32(DgvKategoriler.CurrentRow.Cells[0].Value));
             kategori.KategoriAdi = TxtKategoriAdi.Text;
-            kategori.Durum = Convert.ToBoolean(DgvKategoriler.CurrentRow.Cells[2].Value);
+            kategori.Durum = Convert.ToBoolean(CbDurum.Checked);
             urunYonetimi.SaveChanges();
             DgvKategoriler.DataSource = urunYonetimi.Kategorilers.ToList();
             MessageBox.Show("Kategori Başarıyla Güncellendi");

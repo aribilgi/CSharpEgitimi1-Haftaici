@@ -7,8 +7,8 @@ using System.Threading.Tasks;
 
 namespace WindowsFormsAppEFCodeFirst.Entities
 {
-    [Table("Kategoriler")]
-    public class Kategoriler
+    [Table("Kategoriler")] //Burası aşağıdaki class ın veritabanındaki hangi tablo ile ilişkilendirileceğini belirler
+    public class Kategori
     {
         public int Id { get; set; }
         public string KategoriAdi { get; set; }
