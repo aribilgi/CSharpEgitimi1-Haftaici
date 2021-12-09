@@ -50,5 +50,17 @@ namespace WindowsFormsAppEFDbFirst
             DgvKategoriler.DataSource = urunYonetimi.Kategorilers.ToList();
             MessageBox.Show("Kategori Başarıyla Güncellendi");
         }
+
+        private void BtnSil_Click(object sender, EventArgs e)
+        {
+            if (MessageBox.Show("Silmek İstediğinize Emin Misiniz?", "Uyarı", MessageBoxButtons.YesNo, MessageBoxIcon.Information) == DialogResult.Yes)
+            {
+                var kategori = urunYonetimi.Kategorilers.Find(Convert.ToInt32(DgvKategoriler.CurrentRow.Cells[0].Value)); //Veritabanından silmek istediğimiz ürünü ıd sini yollayarak buluyoruz
+                urunYonetimi.Kategorilers.Remove(kategori); //Bulduğumuz ürünü silinmek üzere EF de belirtiyoruz
+                urunYonetimi.SaveChanges(); //Ef deki silme işleminin gerçekleşmesini sağlıyoruz
+                DgvKategoriler.DataSource = urunYonetimi.Kategorilers.ToList(); //Silme işleminden sonra yeniden ürünleri listeledik
+                MessageBox.Show("Kategori Başarıyla Silindi");
+            }
+        }
     }
 }

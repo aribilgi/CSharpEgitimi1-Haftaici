@@ -1,0 +1,17 @@
+D:\CSharpEgitimi\WindowsFormsAppEFCodeFirst\bin\Debug\WindowsFormsAppEFCodeFirst.exe.config
+D:\CSharpEgitimi\WindowsFormsAppEFCodeFirst\bin\Debug\WindowsFormsAppEFCodeFirst.exe
+D:\CSharpEgitimi\WindowsFormsAppEFCodeFirst\bin\Debug\WindowsFormsAppEFCodeFirst.pdb
+D:\CSharpEgitimi\WindowsFormsAppEFCodeFirst\bin\Debug\EntityFramework.dll
+D:\CSharpEgitimi\WindowsFormsAppEFCodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+D:\CSharpEgitimi\WindowsFormsAppEFCodeFirst\bin\Debug\EntityFramework.xml
+D:\CSharpEgitimi\WindowsFormsAppEFCodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+D:\CSharpEgitimi\WindowsFormsAppEFCodeFirst\obj\Debug\WindowsFormsAppEFCodeFirst.csproj.AssemblyReference.cache
+D:\CSharpEgitimi\WindowsFormsAppEFCodeFirst\obj\Debug\WindowsFormsAppEFCodeFirst.Properties.Resources.resources
+D:\CSharpEgitimi\WindowsFormsAppEFCodeFirst\obj\Debug\WindowsFormsAppEFCodeFirst.csproj.GenerateResource.cache
+D:\CSharpEgitimi\WindowsFormsAppEFCodeFirst\obj\Debug\WindowsFormsAppEFCodeFirst.csproj.CoreCompileInputs.cache
+D:\CSharpEgitimi\WindowsFormsAppEFCodeFirst\obj\Debug\WindowsFormsAppEFCodeFirst.csproj.CopyComplete
+D:\CSharpEgitimi\WindowsFormsAppEFCodeFirst\obj\Debug\WindowsFormsAppEFCodeFirst.exe
+D:\CSharpEgitimi\WindowsFormsAppEFCodeFirst\obj\Debug\WindowsFormsAppEFCodeFirst.pdb
+D:\CSharpEgitimi\WindowsFormsAppEFCodeFirst\obj\Debug\WindowsFormsAppEFCodeFirst.Form1.resources
+D:\CSharpEgitimi\WindowsFormsAppEFCodeFirst\obj\Debug\WindowsFormsAppEFCodeFirst.Form2.resources
+D:\CSharpEgitimi\WindowsFormsAppEFCodeFirst\bin\Debug\System.ComponentModel.Annotations.dll
