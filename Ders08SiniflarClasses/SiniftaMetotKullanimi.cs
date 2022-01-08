@@ -24,5 +24,6 @@ namespace Ders08SiniflarClasses // program.cs ve SiniftaMetotKullanimi.cs sını
             Console.WriteLine(sayi1 + sayi2);
         }
         public static string StatikDegisken = "Sınıfta statik değişken kullanımı";
+        //void Goster();
     }
 }
