@@ -51,5 +51,10 @@ namespace WindowsForms
         {
 
         }
+
+        private void açToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

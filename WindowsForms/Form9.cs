@@ -21,5 +21,10 @@ namespace WindowsForms
         {
             label1.Text = treeView1.SelectedNode.FullPath;
         }
+
+        private void Form9_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

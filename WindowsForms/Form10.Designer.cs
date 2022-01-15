@@ -95,6 +95,7 @@ namespace WindowsForms
             this.açToolStripMenuItem.Name = "açToolStripMenuItem";
             this.açToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             this.açToolStripMenuItem.Text = "Aç";
+            this.açToolStripMenuItem.Click += new System.EventHandler(this.açToolStripMenuItem_Click);
             // 
             // kapatToolStripMenuItem
             // 
@@ -144,7 +145,7 @@ namespace WindowsForms
             // yeniEkleToolStripMenuItem1
             // 
             this.yeniEkleToolStripMenuItem1.Name = "yeniEkleToolStripMenuItem1";
-            this.yeniEkleToolStripMenuItem1.Size = new System.Drawing.Size(151, 26);
+            this.yeniEkleToolStripMenuItem1.Size = new System.Drawing.Size(224, 26);
             this.yeniEkleToolStripMenuItem1.Text = "Yeni Ekle";
             // 
             // kullanıcılarToolStripMenuItem
@@ -158,7 +159,7 @@ namespace WindowsForms
             // yeniEkleToolStripMenuItem
             // 
             this.yeniEkleToolStripMenuItem.Name = "yeniEkleToolStripMenuItem";
-            this.yeniEkleToolStripMenuItem.Size = new System.Drawing.Size(151, 26);
+            this.yeniEkleToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             this.yeniEkleToolStripMenuItem.Text = "Yeni Ekle";
             // 
             // richTextBox1
