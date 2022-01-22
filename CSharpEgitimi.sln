@@ -59,6 +59,23 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsAppEFDbFirst", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsAppEFCodeFirst", "WindowsFormsAppEFCodeFirst\WindowsFormsAppEFCodeFirst.csproj", "{D1AD17E3-885E-436D-9432-4BDC3A985EB4}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SqlKodlari", "SqlKodlari", "{1BE9685B-C510-4578-9735-69ADA21CE97D}"
+	ProjectSection(SolutionItems) = preProject
+		..\EĞİTMEN YEDEK\Yazilim\SQL-Ders-10-Constraints-Kisitlayicilar.sql = ..\EĞİTMEN YEDEK\Yazilim\SQL-Ders-10-Constraints-Kisitlayicilar.sql
+		..\EĞİTMEN YEDEK\Yazilim\SQL-Ders-11-Triggers-TETİKLEYİCİLER.sql = ..\EĞİTMEN YEDEK\Yazilim\SQL-Ders-11-Triggers-TETİKLEYİCİLER.sql
+		..\EĞİTMEN YEDEK\Yazilim\SQL-Ders-12-Sql-Sorgulama.sql = ..\EĞİTMEN YEDEK\Yazilim\SQL-Ders-12-Sql-Sorgulama.sql
+		..\EĞİTMEN YEDEK\Yazilim\SQL-Ders-13-Veritabani-Sql-Yedegi-Alma.sql = ..\EĞİTMEN YEDEK\Yazilim\SQL-Ders-13-Veritabani-Sql-Yedegi-Alma.sql
+		..\EĞİTMEN YEDEK\Yazilim\SQL-Ders-2-Degiskenler.sql = ..\EĞİTMEN YEDEK\Yazilim\SQL-Ders-2-Degiskenler.sql
+		..\EĞİTMEN YEDEK\Yazilim\SQL-Ders-3-Karar-Yapilari.sql = ..\EĞİTMEN YEDEK\Yazilim\SQL-Ders-3-Karar-Yapilari.sql
+		..\EĞİTMEN YEDEK\Yazilim\SQL-Ders-4-Case-Kullanimi.sql = ..\EĞİTMEN YEDEK\Yazilim\SQL-Ders-4-Case-Kullanimi.sql
+		..\EĞİTMEN YEDEK\Yazilim\SQL-Ders-5-While-Kullanimi.sql = ..\EĞİTMEN YEDEK\Yazilim\SQL-Ders-5-While-Kullanimi.sql
+		..\EĞİTMEN YEDEK\Yazilim\SQL-Ders-6-degisken-kullanimi.sql = ..\EĞİTMEN YEDEK\Yazilim\SQL-Ders-6-degisken-kullanimi.sql
+		..\EĞİTMEN YEDEK\Yazilim\SQL-Ders-7-t-sql-try-catch-kullanimi.sql = ..\EĞİTMEN YEDEK\Yazilim\SQL-Ders-7-t-sql-try-catch-kullanimi.sql
+		..\EĞİTMEN YEDEK\Yazilim\SQL-Ders-8-t-sql-stored-procedure-kullanimi.sql = ..\EĞİTMEN YEDEK\Yazilim\SQL-Ders-8-t-sql-stored-procedure-kullanimi.sql
+		..\EĞİTMEN YEDEK\Yazilim\SQL-Ders-9-Commit-ve-Rollback.sql = ..\EĞİTMEN YEDEK\Yazilim\SQL-Ders-9-Commit-ve-Rollback.sql
+		..\EĞİTMEN YEDEK\Yazilim\SQLDers-1.sql = ..\EĞİTMEN YEDEK\Yazilim\SQLDers-1.sql
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
