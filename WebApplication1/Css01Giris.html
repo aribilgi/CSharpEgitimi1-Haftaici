@@ -1,0 +1,119 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Css 01 Giriş</title>
+    <style type="text/css">
+        h1 {
+            color: red;
+        }
+        /* bu şekilde sayfamızdaki tüm h1 leri seçip ona kırmızı rengi uyguladık */
+        h2, h3, h4 {
+            color: crimson;
+        }
+        /*eğer aynı stili birden fazla elemana uygulamak istersek h2,h3 .. şeklinde aralarına , koyarak birden fazla elemanı seçebiliriz*/
+        #idSecici {
+            color: darkblue;
+            font-size: large;
+        }
+        /*burada sayfamızdaki idSecici id değerine sahip elemanı seçip belirttiğimiz stili bu seçiciye uyguladık*/
+        #cssElemanSecici {
+            color: aquamarine;
+            padding: 10px;
+        }
+
+        #nedenCss {
+            background-color: burlywood;
+            padding: 10px;
+            border-bottom: 1px solid red;
+        }
+
+        #cssSozDizimi {
+            background-color: blue;
+            color: yellow;
+            padding: 15px;
+            border: 1px solid darkblue;
+        }
+
+        .center {
+            text-align: center;
+        }
+
+        p.center {
+            background-color: burlywood;
+            text-align: right;
+            color: white;
+            padding: 18px;
+        }
+        /*Css seçicilerden class seçicisini buradaki gibi p.center şeklinde kullanırsak bu sayfadaki p elementlerinden class ı center olanlara bu stili uygula anlamına gelir*/
+        .xlarge {
+            font-size: x-large;
+        }
+        /* html elemanlarından class="xlarge" özelliğine sahip olanların yazı fontunu büyüten class */
+        * {
+            text-align: right;
+            color: blue;
+            font-size: 103%;
+        }
+        /* CSS Evrensel Seçici ile sayfadaki tüm HTML öğelerini seçip stil uygulayabiliriz */
+    </style>
+    <link href="HariciCSSDosyasi.css" rel="stylesheet" />
+</head>
+<body>
+    <h1>CSS Nedir?</h1>
+    <ul>
+        <li>CSS in açılımı Cascading Style Sheets </li>
+        <li>CSS, HTML öğelerinin ekranda, kağıda veya diğer ortamlarda nasıl görüntüleneceğini belirler</li>
+        <li>CSS ile birden çok web sayfasının düzenini aynı anda denetleyebiliriz</li>
+        <li>Harici stil sayfaları CSS dosyalarında depolanır</li>
+    </ul>
+
+    <h1>2. başlık</h1>
+    <div id="idSecici">
+        idSecici ile bu dive özel css uygulayabiliriz
+    </div>
+
+    <h2 id="nedenCss">Neden Css Kullanıyoruz?</h2>
+
+    <p class="center xlarge">
+        CSS, farklı aygıtlar ve ekran boyutları için tasarım, düzen ve ekran varyasyonları da dahil olmak üzere web sayfalarınızın stillerini tanımlamak için kullanılır.
+    </p>
+
+    <h2 id="cssSozDizimi" class="center">CSS Sözdizimi</h2>
+
+    <p class="xlarge">CSS kural kümesi bir seçici ve bildirim bloğundan oluşur: </p>
+
+    <p>Örneğin h1 {color:blue;} şeklinde bir bildirimde bulunursak burada h1 seçici yani css i uygulamak istediğimiz elemandır, küme parantezi içindeki color property yani özelliktir, blue ise bu özelliğe atanan değer (value) dir.</p>
+
+    <h2>CSS Nasıl Eklenir</h2>
+
+    <h3>CSS Eklemenin Üç Yolu Vardır</h3>
+
+    <p id="harici">Harici CSS, Dahili CSS, Satır içi (İnline) CSS </p>
+
+    <p>
+        Harici CSS projeye ayrı bir css dosyası ekleyip css kodlarımızı oraya yazıyoruz ve bu dosyasyı html sayfamıza sürükleyip bırakarak ekliyoruz.
+    </p>
+
+    <p>
+        Dahili CSS: Bu sayfada yukarıda head tagları arasında yazdığımız style kodları arasındaki css e dahili css denir.
+    </p>
+
+    <p style="background-color: brown; color: bisque;">
+        Satır içi (İnline) CSS : Bu elementte kullandığımız  style="background-color: brown; color: bisque;" kodları ile yazım şekline inline css denir. Bu şekilde de html elementlerine css yazabiliriz.
+    </p>
+
+    <h3 style="font-family: 'Times New Roman', Times, serif">
+        Style kullanarak html kontrolüne yazı tipi fontu verme
+    </h3>
+
+    <h2 style="border: 3px solid DodgerBlue">
+        Html elementlerinde border ile çerçeve kullanabiliriz
+    </h2>
+
+    <h2 style="border: 3px solid #ddd; background-color: #808080;">
+        Html elementlerinde renk ismi yerine renk kodlarını da kullanabiliriz
+    </h2>
+
+</body>
+</html>
