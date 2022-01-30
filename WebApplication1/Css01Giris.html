@@ -39,6 +39,10 @@
             text-align: center;
         }
 
+        .left {
+            text-align: left;
+        }
+
         p.center {
             background-color: burlywood;
             text-align: right;
@@ -114,6 +118,97 @@
     <h2 style="border: 3px solid #ddd; background-color: #808080;">
         Html elementlerinde renk ismi yerine renk kodlarını da kullanabiliriz
     </h2>
+
+    <h3>HTML öğesi için birden fazla stil belirtildiğinde hangi stil kullanılır?</h3>
+    <p>
+        1- Satır içi stili (İnline CSS) (html öğesi içinde h3 style="color: blue;" şeklinde yazarsak)
+        2- Dış ve iç stil sayfaları (baş bölümünde belirttiğim gibi css lerin sırasına göre)
+        3- Tarayıcı varsayılan (her tarayıcıcnın html elemanlarına uyguladığı varsayılan css özellikleri vardır)
+    </p>
+
+    <h2>CSS Kenarlık Rengi (Border)</h2>
+
+    <p>
+        Css de html elemanlarına çerçeve belirleyebiliriz. Bunun için css in border özelliği kullanılır.
+    </p>
+
+    <h1 style="border: 2px solid Tomato;">Solid-düz çizgi</h1>
+    <h2 style="border: 2px dashed DodgerBlue;">dashed - kesik çizgi</h2>
+    <h3 style="border: 2px dotted Violet;">dotted - noktalı çizgi</h3>
+    <h4 style="border: 5px double red;">double - çift çizgi</h4>
+    <h5 style="border: 5px groove red;">groove</h5>
+    <h6 style="border: 5px inset gray;">inset - geçişli</h6>
+    <h6 style="border: 5px outset gray;">outset - geçişli</h6>
+
+    <h2>CSS Arka Planlar</h2>
+
+    <div>
+        <h3>
+            CSS arka plan özellikleri html öğeler için arka plan efektlerini tanımlamada kullanılır.
+        </h3>
+        <p>
+            arka plan rengi<br />
+            arka plan resmi<br />
+            arka plan tekrarı<br />
+            arka plan eki<br />
+            arka plan konumu
+        </p>
+
+        <div style="background-color: green; opacity: 0.5;">
+            Css de opacity ile saydamlık, şeffaflık ekleyebiliriz
+            <br />
+            Gerekli kod : background-color: green; opacity: 0.3;
+        </div>
+
+        <div style="background: rgba(0, 128, 0, 0.3); color:red; text-align:center;">
+            Opaklık için bir diğer yöntem de style da renk kodu olarak Rgba kullanmaktır
+            <br />
+            Örnek : style="background: rgba(0, 128, 0, 0.3)"
+            <br />
+            Sondaki değer alfa dır opaklığı bu değer ayarlar
+        </div>
+
+        <div style="background-image: url('/Resimler/logo.png'); height: 200px">
+            <h3>CSS arka plan resmi</h3>
+
+            <p>Css ile html elemanlarına arkaplan resimleri ekleyebiliriz</p>
+
+            <p>
+                Bunun için yazmamız gereken kod şudur : background-image: url("arkaplan.gif");
+            </p>
+        </div>
+
+        <br />
+        <br />
+
+        <div style="background-image: url('/Resimler/logo.png'); background-repeat: no-repeat; height: 200px; background-position: 47px 51px; background-attachment: fixed; ">
+            <h3>CSS arka plan tekrarı</h3>
+
+            <p>
+                background-repeat özelliği ile resim tekrarını yatayda(repeat-x), dikeyde(repeat-y) veya tekrar etmeyecek(no-repeat) şekilde ayarlayabiliriz
+            </p>
+
+            <h3>CSS arka plan pozisyonu</h3>
+
+            <p style="height:100px">
+                Özellik, arka plan resminin konumunu belirtmek için kullanılır.
+                <br />
+                Arkaplan resminin pozisyonunu ayarlamak için gerekli kod : background-position: right top; veya background-position: 25px 58px; pixellerle de ayarlayabiliriz.
+                <br />
+                Arka plan görüntüsünü sağ üst köşede konumlandırırız bu kodla.
+            </p>
+
+            <h3>CSS arka plan sabitleme</h3>
+
+            <p>
+                Özellik, arka plan görüntüsünün kaydırılması mı yoksa sabit mi olması gerektiğini belirtir (sayfanın geri kalanıyla birlikte kaydırmaz). Eğer sayfa aşağı kaydırıldığında resmin sabit kalmasını istersek şu kodu eklemeliyiz : background-attachment: fixed;
+            </p>
+
+
+
+        </div>
+
+    </div>
 
 </body>
 </html>

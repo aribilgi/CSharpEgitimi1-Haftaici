@@ -69,6 +69,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Css01Giris.html" />
+    <Content Include="Css02MarginPadding.html" />
+    <Content Include="Css03GenislikYukseklik.html" />
+    <Content Include="Css04DisplayOzelligi.html" />
     <Content Include="Global.asax" />
     <Content Include="HariciCSSDosyasi.css" />
     <Content Include="index.html" />

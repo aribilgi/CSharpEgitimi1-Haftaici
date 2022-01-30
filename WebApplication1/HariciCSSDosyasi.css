@@ -1,2 +1,6 @@
 ﻿body {
+    margin: 25px 50px 75px;
+    padding: 25px 50px 75px;
+    border: 1px inset;
+    background-color: antiquewhite;
 }
