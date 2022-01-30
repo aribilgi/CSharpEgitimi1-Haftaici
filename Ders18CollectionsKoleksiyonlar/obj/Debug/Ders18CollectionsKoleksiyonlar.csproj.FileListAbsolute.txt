@@ -5,3 +5,5 @@ D:\CSharpEgitimi\Ders18CollectionsKoleksiyonlar\obj\Debug\Ders18CollectionsKolek
 D:\CSharpEgitimi\Ders18CollectionsKoleksiyonlar\obj\Debug\Ders18CollectionsKoleksiyonlar.csproj.CoreCompileInputs.cache
 D:\CSharpEgitimi\Ders18CollectionsKoleksiyonlar\obj\Debug\Ders18CollectionsKoleksiyonlar.exe
 D:\CSharpEgitimi\Ders18CollectionsKoleksiyonlar\obj\Debug\Ders18CollectionsKoleksiyonlar.pdb
+C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\Ders18CollectionsKoleksiyonlar\obj\Debug\Ders18CollectionsKoleksiyonlar.exe
+C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\Ders18CollectionsKoleksiyonlar\obj\Debug\Ders18CollectionsKoleksiyonlar.pdb

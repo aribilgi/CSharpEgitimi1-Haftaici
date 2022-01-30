@@ -4,3 +4,5 @@ D:\CSharpEgitimi\Ders03TipDonusumleri\bin\Debug\Ders03TipDonusumleri.pdb
 D:\CSharpEgitimi\Ders03TipDonusumleri\obj\Debug\Ders03TipDonusumleri.csproj.CoreCompileInputs.cache
 D:\CSharpEgitimi\Ders03TipDonusumleri\obj\Debug\Ders03TipDonusumleri.exe
 D:\CSharpEgitimi\Ders03TipDonusumleri\obj\Debug\Ders03TipDonusumleri.pdb
+C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\Ders03TipDonusumleri\obj\Debug\Ders03TipDonusumleri.exe
+C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\Ders03TipDonusumleri\obj\Debug\Ders03TipDonusumleri.pdb

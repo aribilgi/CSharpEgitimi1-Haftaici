@@ -5,3 +5,10 @@ D:\CSharpEgitimi\Ders21Generics\obj\Debug\Ders21Generics.csproj.AssemblyReferenc
 D:\CSharpEgitimi\Ders21Generics\obj\Debug\Ders21Generics.csproj.CoreCompileInputs.cache
 D:\CSharpEgitimi\Ders21Generics\obj\Debug\Ders21Generics.exe
 D:\CSharpEgitimi\Ders21Generics\obj\Debug\Ders21Generics.pdb
+C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\Ders21Generics\bin\Debug\Ders21Generics.exe.config
+C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\Ders21Generics\bin\Debug\Ders21Generics.exe
+C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\Ders21Generics\bin\Debug\Ders21Generics.pdb
+C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\Ders21Generics\obj\Debug\Ders21Generics.csproj.AssemblyReference.cache
+C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\Ders21Generics\obj\Debug\Ders21Generics.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\Ders21Generics\obj\Debug\Ders21Generics.exe
+C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\Ders21Generics\obj\Debug\Ders21Generics.pdb

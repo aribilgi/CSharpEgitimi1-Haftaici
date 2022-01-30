@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CSharpEgitimi\\Ders22ClassLibraryKullanimi\\Ders22ClassLibraryKullanimi.csproj",
+      "projectUniqueName": "C:\\Users\\ARIBILGI\\source\\repos\\aribilgi\\CSharpEgitimi1-Haftaici\\Ders22ClassLibraryKullanimi\\Ders22ClassLibraryKullanimi.csproj",
       "projectName": "Ders22ClassLibraryKullanimi",
-      "projectPath": "D:\\CSharpEgitimi\\Ders22ClassLibraryKullanimi\\Ders22ClassLibraryKullanimi.csproj",
+      "projectPath": "C:\\Users\\ARIBILGI\\source\\repos\\aribilgi\\CSharpEgitimi1-Haftaici\\Ders22ClassLibraryKullanimi\\Ders22ClassLibraryKullanimi.csproj",
       "packagesPath": "C:\\Users\\ARIBILGI\\.nuget\\packages\\",
-      "outputPath": "D:\\CSharpEgitimi\\Ders22ClassLibraryKullanimi\\obj\\",
+      "outputPath": "C:\\Users\\ARIBILGI\\source\\repos\\aribilgi\\CSharpEgitimi1-Haftaici\\Ders22ClassLibraryKullanimi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -57,8 +57,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\CSharpEgitimi\\ClassLibrary_SinifKutuphanesi\\ClassLibrary_SinifKutuphanesi.csproj": {
-              "projectPath": "D:\\CSharpEgitimi\\ClassLibrary_SinifKutuphanesi\\ClassLibrary_SinifKutuphanesi.csproj"
+            "C:\\Users\\ARIBILGI\\source\\repos\\aribilgi\\CSharpEgitimi1-Haftaici\\ClassLibrary_SinifKutuphanesi\\ClassLibrary_SinifKutuphanesi.csproj": {
+              "projectPath": "C:\\Users\\ARIBILGI\\source\\repos\\aribilgi\\CSharpEgitimi1-Haftaici\\ClassLibrary_SinifKutuphanesi\\ClassLibrary_SinifKutuphanesi.csproj"
             }
           }
         }

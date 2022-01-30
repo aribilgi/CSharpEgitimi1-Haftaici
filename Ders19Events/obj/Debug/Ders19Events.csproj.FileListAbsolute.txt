@@ -5,3 +5,10 @@ D:\CSharpEgitimi\Ders19Events\obj\Debug\Ders19Events.csproj.AssemblyReference.ca
 D:\CSharpEgitimi\Ders19Events\obj\Debug\Ders19Events.csproj.CoreCompileInputs.cache
 D:\CSharpEgitimi\Ders19Events\obj\Debug\Ders19Events.exe
 D:\CSharpEgitimi\Ders19Events\obj\Debug\Ders19Events.pdb
+C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\Ders19Events\bin\Debug\Ders19Events.exe.config
+C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\Ders19Events\bin\Debug\Ders19Events.exe
+C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\Ders19Events\bin\Debug\Ders19Events.pdb
+C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\Ders19Events\obj\Debug\Ders19Events.csproj.AssemblyReference.cache
+C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\Ders19Events\obj\Debug\Ders19Events.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\Ders19Events\obj\Debug\Ders19Events.exe
+C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\Ders19Events\obj\Debug\Ders19Events.pdb

@@ -5,3 +5,5 @@ D:\CSharpEgitimi\Ders07Metotlar\obj\Debug\Ders07Metotlar.csproj.CoreCompileInput
 D:\CSharpEgitimi\Ders07Metotlar\obj\Debug\Ders07Metotlar.exe
 D:\CSharpEgitimi\Ders07Metotlar\obj\Debug\Ders07Metotlar.pdb
 D:\CSharpEgitimi\Ders07Metotlar\obj\Debug\Ders07Metotlar.csproj.AssemblyReference.cache
+C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\Ders07Metotlar\obj\Debug\Ders07Metotlar.exe
+C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\Ders07Metotlar\obj\Debug\Ders07Metotlar.pdb

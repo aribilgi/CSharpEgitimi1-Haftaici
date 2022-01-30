@@ -5,3 +5,5 @@ D:\CSharpEgitimi\Ders11StructYapilar\obj\Debug\Ders11StructYapilar.csproj.Assemb
 D:\CSharpEgitimi\Ders11StructYapilar\obj\Debug\Ders11StructYapilar.csproj.CoreCompileInputs.cache
 D:\CSharpEgitimi\Ders11StructYapilar\obj\Debug\Ders11StructYapilar.exe
 D:\CSharpEgitimi\Ders11StructYapilar\obj\Debug\Ders11StructYapilar.pdb
+C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\Ders11StructYapilar\obj\Debug\Ders11StructYapilar.exe
+C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\Ders11StructYapilar\obj\Debug\Ders11StructYapilar.pdb

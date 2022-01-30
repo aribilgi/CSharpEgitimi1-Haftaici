@@ -5,3 +5,5 @@ D:\CSharpEgitimi\Ders05KosulYapilari\obj\Debug\Ders05KosulYapilari.csprojAssembl
 D:\CSharpEgitimi\Ders05KosulYapilari\obj\Debug\Ders05KosulYapilari.csproj.CoreCompileInputs.cache
 D:\CSharpEgitimi\Ders05KosulYapilari\obj\Debug\Ders05KosulYapilari.exe
 D:\CSharpEgitimi\Ders05KosulYapilari\obj\Debug\Ders05KosulYapilari.pdb
+C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\Ders05KosulYapilari\obj\Debug\Ders05KosulYapilari.exe
+C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\Ders05KosulYapilari\obj\Debug\Ders05KosulYapilari.pdb

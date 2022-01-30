@@ -5,3 +5,5 @@ D:\CSharpEgitimi\Ders16InterfacesArayuzler\obj\Debug\Ders16InterfacesArayuzler.c
 D:\CSharpEgitimi\Ders16InterfacesArayuzler\obj\Debug\Ders16InterfacesArayuzler.csproj.CoreCompileInputs.cache
 D:\CSharpEgitimi\Ders16InterfacesArayuzler\obj\Debug\Ders16InterfacesArayuzler.exe
 D:\CSharpEgitimi\Ders16InterfacesArayuzler\obj\Debug\Ders16InterfacesArayuzler.pdb
+C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\Ders16InterfacesArayuzler\obj\Debug\Ders16InterfacesArayuzler.exe
+C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\Ders16InterfacesArayuzler\obj\Debug\Ders16InterfacesArayuzler.pdb

@@ -5,3 +5,5 @@ D:\CSharpEgitimi\Ders14KalitimInheritance\obj\Debug\Ders14KalitimInheritance.csp
 D:\CSharpEgitimi\Ders14KalitimInheritance\obj\Debug\Ders14KalitimInheritance.csproj.CoreCompileInputs.cache
 D:\CSharpEgitimi\Ders14KalitimInheritance\obj\Debug\Ders14KalitimInheritance.exe
 D:\CSharpEgitimi\Ders14KalitimInheritance\obj\Debug\Ders14KalitimInheritance.pdb
+C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\Ders14KalitimInheritance\obj\Debug\Ders14KalitimInheritance.exe
+C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\Ders14KalitimInheritance\obj\Debug\Ders14KalitimInheritance.pdb

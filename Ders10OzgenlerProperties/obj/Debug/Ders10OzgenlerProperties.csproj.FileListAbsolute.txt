@@ -5,3 +5,5 @@ D:\CSharpEgitimi\Ders10OzgenlerProperties\obj\Debug\Ders10OzgenlerProperties.csp
 D:\CSharpEgitimi\Ders10OzgenlerProperties\obj\Debug\Ders10OzgenlerProperties.csproj.CoreCompileInputs.cache
 D:\CSharpEgitimi\Ders10OzgenlerProperties\obj\Debug\Ders10OzgenlerProperties.exe
 D:\CSharpEgitimi\Ders10OzgenlerProperties\obj\Debug\Ders10OzgenlerProperties.pdb
+C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\Ders10OzgenlerProperties\obj\Debug\Ders10OzgenlerProperties.exe
+C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\Ders10OzgenlerProperties\obj\Debug\Ders10OzgenlerProperties.pdb

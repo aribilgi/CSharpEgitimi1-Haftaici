@@ -5,3 +5,5 @@ D:\CSharpEgitimi\Ders08SiniflarClasses\obj\Debug\Ders08SiniflarClasses.csproj.As
 D:\CSharpEgitimi\Ders08SiniflarClasses\obj\Debug\Ders08SiniflarClasses.csproj.CoreCompileInputs.cache
 D:\CSharpEgitimi\Ders08SiniflarClasses\obj\Debug\Ders08SiniflarClasses.exe
 D:\CSharpEgitimi\Ders08SiniflarClasses\obj\Debug\Ders08SiniflarClasses.pdb
+C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\Ders08SiniflarClasses\obj\Debug\Ders08SiniflarClasses.exe
+C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\Ders08SiniflarClasses\obj\Debug\Ders08SiniflarClasses.pdb

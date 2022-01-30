@@ -5,3 +5,5 @@ D:\CSharpEgitimi\Ders17AbstractClasses\obj\Debug\Ders17AbstractClasses.csproj.As
 D:\CSharpEgitimi\Ders17AbstractClasses\obj\Debug\Ders17AbstractClasses.csproj.CoreCompileInputs.cache
 D:\CSharpEgitimi\Ders17AbstractClasses\obj\Debug\Ders17AbstractClasses.exe
 D:\CSharpEgitimi\Ders17AbstractClasses\obj\Debug\Ders17AbstractClasses.pdb
+C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\Ders17AbstractClasses\obj\Debug\Ders17AbstractClasses.exe
+C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\Ders17AbstractClasses\obj\Debug\Ders17AbstractClasses.pdb

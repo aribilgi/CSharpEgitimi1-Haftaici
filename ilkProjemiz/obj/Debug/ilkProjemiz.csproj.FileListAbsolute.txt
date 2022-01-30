@@ -5,3 +5,10 @@ D:\CSharpEgitimi\ilkProjemiz\obj\Debug\ilkProjemiz.csprojAssemblyReference.cache
 D:\CSharpEgitimi\ilkProjemiz\obj\Debug\ilkProjemiz.csproj.CoreCompileInputs.cache
 D:\CSharpEgitimi\ilkProjemiz\obj\Debug\ilkProjemiz.exe
 D:\CSharpEgitimi\ilkProjemiz\obj\Debug\ilkProjemiz.pdb
+C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\ilkProjemiz\bin\Debug\ilkProjemiz.exe.config
+C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\ilkProjemiz\bin\Debug\ilkProjemiz.exe
+C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\ilkProjemiz\bin\Debug\ilkProjemiz.pdb
+C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\ilkProjemiz\obj\Debug\ilkProjemiz.csproj.AssemblyReference.cache
+C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\ilkProjemiz\obj\Debug\ilkProjemiz.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\ilkProjemiz\obj\Debug\ilkProjemiz.exe
+C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\ilkProjemiz\obj\Debug\ilkProjemiz.pdb

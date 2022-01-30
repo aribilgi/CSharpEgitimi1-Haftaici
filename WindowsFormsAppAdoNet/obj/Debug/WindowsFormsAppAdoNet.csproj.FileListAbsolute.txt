@@ -9,3 +9,14 @@ D:\CSharpEgitimi\WindowsFormsAppAdoNet\obj\Debug\WindowsFormsAppAdoNet.csproj.Co
 D:\CSharpEgitimi\WindowsFormsAppAdoNet\obj\Debug\WindowsFormsAppAdoNet.exe
 D:\CSharpEgitimi\WindowsFormsAppAdoNet\obj\Debug\WindowsFormsAppAdoNet.pdb
 D:\CSharpEgitimi\WindowsFormsAppAdoNet\obj\Debug\WindowsFormsAppAdoNet.Form2.resources
+C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\WindowsFormsAppAdoNet\bin\Debug\WindowsFormsAppAdoNet.exe.config
+C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\WindowsFormsAppAdoNet\bin\Debug\WindowsFormsAppAdoNet.exe
+C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\WindowsFormsAppAdoNet\bin\Debug\WindowsFormsAppAdoNet.pdb
+C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\WindowsFormsAppAdoNet\obj\Debug\WindowsFormsAppAdoNet.csproj.AssemblyReference.cache
+C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\WindowsFormsAppAdoNet\obj\Debug\WindowsFormsAppAdoNet.Form1.resources
+C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\WindowsFormsAppAdoNet\obj\Debug\WindowsFormsAppAdoNet.Form2.resources
+C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\WindowsFormsAppAdoNet\obj\Debug\WindowsFormsAppAdoNet.Properties.Resources.resources
+C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\WindowsFormsAppAdoNet\obj\Debug\WindowsFormsAppAdoNet.csproj.GenerateResource.cache
+C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\WindowsFormsAppAdoNet\obj\Debug\WindowsFormsAppAdoNet.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\WindowsFormsAppAdoNet\obj\Debug\WindowsFormsAppAdoNet.exe
+C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\WindowsFormsAppAdoNet\obj\Debug\WindowsFormsAppAdoNet.pdb

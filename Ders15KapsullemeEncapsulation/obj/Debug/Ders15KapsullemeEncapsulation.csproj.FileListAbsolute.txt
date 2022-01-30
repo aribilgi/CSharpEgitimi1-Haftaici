@@ -5,3 +5,5 @@ D:\CSharpEgitimi\Ders15KapsullemeEncapsulation\obj\Debug\Ders15KapsullemeEncapsu
 D:\CSharpEgitimi\Ders15KapsullemeEncapsulation\obj\Debug\Ders15KapsullemeEncapsulation.csproj.CoreCompileInputs.cache
 D:\CSharpEgitimi\Ders15KapsullemeEncapsulation\obj\Debug\Ders15KapsullemeEncapsulation.exe
 D:\CSharpEgitimi\Ders15KapsullemeEncapsulation\obj\Debug\Ders15KapsullemeEncapsulation.pdb
+C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\Ders15KapsullemeEncapsulation\obj\Debug\Ders15KapsullemeEncapsulation.exe
+C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\Ders15KapsullemeEncapsulation\obj\Debug\Ders15KapsullemeEncapsulation.pdb
