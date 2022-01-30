@@ -1,0 +1,25 @@
+﻿body {
+    font-size: small;
+}
+/* id seçici # işaretidir, class seçici . işaretidir */
+#harici {
+    text-align: center;
+    background-color: bisque;
+    color: black;
+    padding: 18px;
+}
+
+.ortala {
+    text-align: center;
+}
+
+.kapsayici {
+    width: 50%;
+    border: 5px double blue;
+}
+
+#resim {
+    float: left;
+    border: 5px groove red;
+    margin-right: 18px;
+}

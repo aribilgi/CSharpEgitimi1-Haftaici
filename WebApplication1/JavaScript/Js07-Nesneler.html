@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Nesneler</title>
+    <script>
+        function Pers(ad, saatucret) {
+            this.ad = ad;
+            this.saatucret = saatucret;
+            this.odeUcret = odeUcret;
+        }
+
+        function odeUcret(saat) {
+            return this.saatucret * saat;
+        }
+
+        pers1 = new Pers("Hasan", 50);
+        pers2 = new Pers("Yeşim", 40);
+        s1 = parseInt(window.prompt("birinci personelin çalıştığı saat miktarı", "0"))
+        p1 = pers1.odeUcret(s1);
+        s2 = parseInt(window.prompt("ikinci personelin çalıştığı saat miktarı", "0"))
+        p2 = pers2.odeUcret(s2);
+
+        document.write("<h3>Personelin Adı=" + pers1.ad + "</h3>");
+        document.write("<h3>Çalıştığı saat=" + s1 + "</h3>");
+        document.write("<h3>Saat Ücreti=" + pers1.saatucret + "</h3>");
+        document.write("<h3>Alacağı Maaş=" + p1 + "</h3>");
+
+        document.write("<h3>Personelin Adı=" + pers2.ad + "</h3>");
+        document.write("<h3>Çalıştığı saat=" + s2 + "</H3>");
+        document.write("<h3>Saat Ücreti=" + pers2.saatucret + "</h3>");
+        document.write("<h3>Alacağı Maaş=" + p2 + "</h3>");
+
+
+    </script>
+</head>
+<body>
+
+</body>
+</html>

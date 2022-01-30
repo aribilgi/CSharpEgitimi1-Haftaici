@@ -2,14 +2,16 @@
 <html>
 <head>
     <meta charset="utf-8" />
-    <title>Css02 Margin Padding</title>
+    <title>CSS Kenar Boşlukları(Margin-Padding)</title>
 </head>
 <body>
     <h1>CSS Kenar Boşlukları(Margin-Padding)</h1>
     <p>
+        CSS özelliklerinden margin, tanımlanmış kenarlıkların dışında öğelerin etrafında boşluk oluşturmak için kullanılır.
+    </p>
+    <p>
         CSS ile kenar boşlukları üzerinde Margin ile Bir öğenin dört yönden (üst, sağ, alt ve sol) için kenar boşluğu ayarlayabiliriz.
     </p>
-
     <h2>Margin</h2>
     <p>
         CSS bir öğenin her bir tarafı için kenar boşluğunu belirtmek için özelliklere sahiptir:<br />
@@ -18,11 +20,9 @@
         margin-bottom (alt)<br />
         margin-left (sol)<br />
     </p>
-
     <p style="margin-top: 100px; margin-bottom: 100px; margin-right: 150px; margin-left: 80px; width:300px; border:3px inset">
         Margin kullanımı
     </p>
-
     <h2>Margin - Steno Özelliği</h2>
     <p>Kodu kısaltmak için, tüm kenar boşluğu özelliklerini tek bir özellikte belirtmek mümkündür.</p>
 
@@ -37,12 +37,12 @@
     </p>
 
     <h2>Padding</h2>
-    <p>
-        Css de Padding özelliği ile html elemanlarına çerçeveden içeri doğru boşluk verebiliriz.
-    </p>
+    <p>Css de Padding özelliği ile html elemanlarına çerçeveden içeri doğru boşluk verebiliriz.</p>
 
-    <p style="padding: 25px 50px 75px 100px; border: 5px outset red">
-        <b>Kullanımı</b>
+    <p style="padding: 25px 50px 75px 100px; border:5px outset">
+        <b>Örnek</b>
+        <br />
+        Dört değere sahip iç kenar boşluğu özelliğini kullanalım;
         <br />
         <code>
             p { padding: 25px(üstten 25) 50px(sağdan 50) 75px(alttan 75) 100px(soldan); }
@@ -68,7 +68,7 @@
 
     <h2>Margin ve Padding Özelliğinin iki değeri varsa:</h2>
 
-    <p style="margin: 25px 50px; padding: 25px 50px; border: 5px outset red; background-color: whitesmoke;">
+    <p style="margin: 25px 50px; padding: 25px 50px; border: 5px outset; background-color: whitesmoke;">
         üst ve alt kenar boşlukları 25px vardır
         <br />
         sağ ve sol kenar boşlukları 50px vardır

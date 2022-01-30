@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>switch case</title>
+    <script>
+        var a;
+        document.write("<h2>Arı turizm</h2>");
+        document.write("<h3>1.Orta Avrupa Turu</h3>");
+        document.write("<h3>2.Amerika Turu</h3>");
+        document.write("<h3>3.Uzak Doğu Turu</h3>");
+
+        a = window.prompt("Lütfen Bir Tur Seçiniz! \n 1.Orta Avrupa Turu \n 2.Amerika Turu \n 3.Uzak Doğu Turu", "1");
+
+        switch (parseInt(a)) {
+            case 1:
+                {
+                    document.write("<h3>Seçtiğiniz Tur : 1.Orta Avrupa Turu (Uçakla Viyana, Budapeşte, Bosna)</h3>");
+                    break;
+                }
+            case 2:
+                {
+                    document.write("<h3>Seçtiğiniz Tur : 2.Amerika Turu (Uçakla New York, Boston, Los Angeles)</h3>");
+                    break;
+                }
+            case 3:
+                {
+                    document.write("<h3>Seçtiğiniz Tur : 3.Uzak Doğu Turu (Uçakla Bang Kong, Hong Kong, Tokyo)</h3>");
+                    break;
+                }
+            default: window.alert("Geçersiz Seçim!");
+        }
+
+    </script>
+</head>
+<body>
+
+</body>
+</html>

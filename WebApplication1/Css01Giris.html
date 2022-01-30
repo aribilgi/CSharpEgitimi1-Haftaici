@@ -2,8 +2,8 @@
 <html>
 <head>
     <meta charset="utf-8" />
-    <title>Css 01 Giriş</title>
-    <style type="text/css">
+    <title>Css 01 Giris</title>
+    <style>
         h1 {
             color: red;
         }
@@ -37,10 +37,7 @@
 
         .center {
             text-align: center;
-        }
-
-        .left {
-            text-align: left;
+            color: red;
         }
 
         p.center {
@@ -61,9 +58,10 @@
         }
         /* CSS Evrensel Seçici ile sayfadaki tüm HTML öğelerini seçip stil uygulayabiliriz */
     </style>
-    <link href="HariciCSSDosyasi.css" rel="stylesheet" />
+    <link href="Stil.css" rel="stylesheet" />
 </head>
 <body>
+
     <h1>CSS Nedir?</h1>
     <ul>
         <li>CSS in açılımı Cascading Style Sheets </li>
@@ -76,7 +74,6 @@
     <div id="idSecici">
         idSecici ile bu dive özel css uygulayabiliriz
     </div>
-
     <h2 id="nedenCss">Neden Css Kullanıyoruz?</h2>
 
     <p class="center xlarge">
@@ -143,9 +140,7 @@
     <h2>CSS Arka Planlar</h2>
 
     <div>
-        <h3>
-            CSS arka plan özellikleri html öğeler için arka plan efektlerini tanımlamada kullanılır.
-        </h3>
+        <h3>CSS arka plan özellikleri öğeler için arka plan efektlerini tanımlamada kullanılır. </h3>
         <p>
             arka plan rengi<br />
             arka plan resmi<br />
@@ -155,12 +150,12 @@
         </p>
 
         <div style="background-color: green; opacity: 0.5;">
-            Css de opacity ile saydamlık, şeffaflık ekleyebiliriz
+            Css de arkaplan rengine opacity ile saydamlık, şeffaflık ekleyebiliriz
             <br />
             Gerekli kod : background-color: green; opacity: 0.3;
         </div>
 
-        <div style="background: rgba(0, 128, 0, 0.3); color:red; text-align:center;">
+        <div style="background: rgba(0, 128, 0, 0.3)">
             Opaklık için bir diğer yöntem de style da renk kodu olarak Rgba kullanmaktır
             <br />
             Örnek : style="background: rgba(0, 128, 0, 0.3)"
@@ -181,16 +176,16 @@
         <br />
         <br />
 
-        <div style="background-image: url('/Resimler/logo.png'); background-repeat: no-repeat; height: 200px; background-position: 47px 51px; background-attachment: fixed; ">
-            <h3>CSS arka plan tekrarı</h3>
+        <div style="background-image: url('/Resimler/logo.png'); background-repeat: no-repeat; background-position: center center; background-attachment: fixed; height: 200px ">
+            <h3>CSS Arka Plan Tekrarı</h3>
 
             <p>
-                background-repeat özelliği ile resim tekrarını yatayda(repeat-x), dikeyde(repeat-y) veya tekrar etmeyecek(no-repeat) şekilde ayarlayabiliriz
+                background-repeat özelliği ile resim tekrarını yatayda, dikeyde veya tekrar etmeyecek şekilde ayarlayabiliriz
             </p>
 
             <h3>CSS arka plan pozisyonu</h3>
 
-            <p style="height:100px">
+            <p>
                 Özellik, arka plan resminin konumunu belirtmek için kullanılır.
                 <br />
                 Arkaplan resminin pozisyonunu ayarlamak için gerekli kod : background-position: right top; veya background-position: 25px 58px; pixellerle de ayarlayabiliriz.
@@ -204,7 +199,9 @@
                 Özellik, arka plan görüntüsünün kaydırılması mı yoksa sabit mi olması gerektiğini belirtir (sayfanın geri kalanıyla birlikte kaydırmaz). Eğer sayfa aşağı kaydırıldığında resmin sabit kalmasını istersek şu kodu eklemeliyiz : background-attachment: fixed;
             </p>
 
+            <div style="background: #ffffff url('/Resimler/logo.png') no-repeat fixed center bottom; height: 600px;">
 
+            </div>
 
         </div>
 

@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Fonksiyonlar</title>
+    <script>
+        //Basit fonksiyon tanımlama
+        function f_yaz(string1) {
+            document.write("<h1>" + string1 + "</h1>");
+        }
+
+        f_yaz("Yazılım Eğitimi");
+        f_yaz("Html, Css, Js Eğitimi");
+
+        function renk(kod) {
+            document.bgColor = kod
+        }
+        //renk("blue");
+
+    </script>
+</head>
+<body>
+    <form>
+        <input type="button" name="name" value="KIRMIZI" onclick="renk('red')" />
+        <input type="button" name="name" value="Mavi" onclick="renk('blue')" />
+        <input type="button" name="name" value="Sarı" onclick="renk('yellow')" />
+    </form>
+</body>
+</html>
