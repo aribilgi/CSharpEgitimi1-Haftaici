@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Js Hazır Nesneler</title>
+</head>
+<body>
+    <h1>JavaScript Hazır Nesneler</h1>
+    <p>Js dersleri</p>
+
+    <script>
+        document.bgColor = "green";
+        document.fgColor = "yellow";
+        document.write("Tarayıcı penceresinin genişliği : " + window.innerWidth + "<br>");
+        document.write("Tarayıcı penceresinin yüksekliği : " + window.innerHeight + "<br>");
+
+        function degis(d) {
+            if (d == "buyuk") {
+
+                document.form1.ad.value = document.form1.ad.value.toUpperCase()
+                document.form1.soyad.value = document.form1.soyad.value.toUpperCase()
+            }
+            else {
+
+                document.form1.ad.value = document.form1.ad.value.toLowerCase()
+                document.form1.soyad.value = document.form1.soyad.value.toLowerCase()
+            }
+        }
+    </script>
+
+    <h3>FORM UYGULAMASI</h3>
+    <form name="form1">
+        <b>AD:</b>
+        <input type="text" name="ad">
+        <br />
+        <b>SOYAD:</b>
+        <input type="text" name="soyad" size=20>
+
+        <input type="button" value="Büyük Harf" name="buyukharf" onClick="degis('buyuk')">
+        <input type="button" value="Küçük Harf" name="kucukharf" onClick="degis('kucuk')">
+
+    </form>
+
+    <a href="/JavaScript/Js10-HistoryNesnesi.html">HistoryNesnesi</a>
+
+    <input id="Button1" type="button" value="BİR ÖNCEKİ" onClick="history.back()" />
+    <input id="Button2" type="button" value="BİR SONRAKİ" onClick="history.forward()" />
+</body>
+</html>

@@ -1,0 +1,112 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Olayların Kullanımı</title>
+</head>
+<body>
+    <h2>JavaScript OLAY(EVENT) KAVRAMI</h2>
+    <a onClick="alert('onClick \n Olayı \n uygulaması');">
+        BURAYI TIKLAYINIZ
+    </a>
+    <hr />
+
+    <h2>Örnek 2 onClick olayı</h2>
+
+    <h3>CİNSİYET SEÇİNİZ</h3>
+    <form name="cinsiyet">
+        <input type="radio" name="cins" value="KADIN">KADIN<br>
+        <input type="radio" name="cins" value="ERKEK">ERKEK<br>
+        <input type="button" value="Seç" onClick="goster()">
+    </form>
+
+    <script>
+        function goster() {
+            var m = ""
+            if (document.cinsiyet.cins[0].checked) {
+                m = 'KADIN'
+            }
+            if (document.cinsiyet.cins[1].checked) {
+                m = 'ERKEK'
+            }
+            alert("SEÇİLEN CİNSİYET: " + m)
+        }
+    </script>
+
+    <hr />
+    <h2>Örnek 3 onClick confirm olayı</h2>
+
+    <script>
+        function kontrol() {
+            // Onay kutusundaki stringe ilk değer ataması
+            str = "Bunu mu demek istedin: beni gugıla götür?";
+
+            if (confirm(str)) {
+                location.href = "https://www.google.com"; //burası yönlendirme yapar
+            }
+        }
+    </script>
+
+    <input type="button" value=" Go >> gıl" onClick="kontrol()">
+
+    <hr />
+
+    <h2>Örnek 4 onMouseOver Olayı</h2>
+    <a onMouseOver="alert('BU ORNEK \n onMouseOver OLAYINI GOSTERIYOR');">
+        onMouseOver
+    </a>
+
+    <hr />
+
+    <h3>FOCUS UYGULAMASI</h3>
+    <input type="text" value="Hoop" onFocus="this.value='Burdayız'">
+
+    <hr />
+
+    <h3>BLUR UYGULAMASI</h3>
+    <input type="text" value="Hoop" onfocus="this.value='Burdayız'" onblur="this.value='Hoops'">
+
+    <hr />
+
+    <h3>OnChange Olayı</h3>
+
+    <script>
+        function sec(s) {
+            return s.options[s.selectedIndex].value
+        }
+    </script>
+
+    <form>
+        <select name="list" size=1 OnChange="location=sec(this)">
+            <option value="#"> BİR ARAMA MOTORU SEÇİNİZ
+            <option value="https://www.google.com.tr"> Google
+            <option value="https://www.yahoo.com"> Yahoo
+            <option value="https://www.yandex.com.tr"> Yandex
+        </select>
+    </form>
+
+    <h3>OnSubmit Olayı</h3>
+
+    <script>
+        var veri = false
+        function verikont() {
+            if (document.form1.kar.value.length == 5) {
+                alert("İşlem başarılı")
+                return true
+            }
+            else {
+                alert("TAM OLARAK 5 KARAKTER GİRİNİZ " + document.form1.kar.value +
+                    " KARAKTER GEÇERLİ DEĞİL")
+                return false
+            }
+        }
+    </script>
+
+    <form name="form1" onsubmit="return verikont()">
+        <B>5 KARAKTER GİRİNİZ:</B>
+        <input type="text" name="kar" size=5>
+        <input type="submit" value="KARAKTERLER GİRİLDİ" name="submit1" onclick="document.form1.kar.value=document.form1.kar.value.toUpperCase()">
+    </form>
+
+</body>
+</html>

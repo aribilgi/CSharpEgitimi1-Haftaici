@@ -86,6 +86,10 @@
     <Content Include="JavaScript\Js06-SwitchCase.html" />
     <Content Include="JavaScript\Js07-Nesneler.html" />
     <Content Include="JavaScript\Js08-Fonksiyonlar.html" />
+    <Content Include="JavaScript\Js09-Hazir-Nesneler.html" />
+    <Content Include="JavaScript\Js10-HistoryNesnesi.html" />
+    <Content Include="JavaScript\Js11-StringNesnesi.html" />
+    <Content Include="JavaScript\Js12-Olaylar.html" />
     <Content Include="Resimler\360_F_367325140_31H7HyscEPhhVW6l4rBnDIjlX5fTapxT.jpg" />
     <Content Include="Resimler\html-sayfasi.html" />
     <Content Include="Resimler\images.png" />
