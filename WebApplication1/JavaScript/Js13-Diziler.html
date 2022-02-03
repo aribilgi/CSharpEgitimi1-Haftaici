@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Js13 Diziler</title>
+    <script>
+        //Dizi kullanılmadan
+        /*
+        var sayi, t, i;
+        t = 0;
+        for (i = 1; i <= 5; i++) {
+            sayi = parseInt(window.prompt("BİR SAYI GİRİNİZ..", "0"));
+            t = t + sayi;
+        }
+        document.write("<H3>TOPLAM=" + t + "</H3>");
+        document.write("<H3>SAYI=" + sayi + "</H3>");
+        
+
+        //Dizi kullanılarak
+        var sayi, t, i;
+        sayi = new Array(6);
+        t = 0;
+        for (i = 1; i <= 5; i++) {
+            sayi[i] = parseInt(window.prompt("BİR SAYI GİRİNİZ..", "0"));
+            t = t + sayi[i];
+        }
+        document.write("<H3>TOPLAM=" + t + "</H3>");
+        document.write("<H3>SAYI[3]=" + sayi[3] + "</H3>");
+*/
+        var x = [3, 6, 9, 12, 15];
+        var t = 0;
+        for (var DiziElemani in x)
+            t += x[DiziElemani];
+        document.write("<H3>DİZİ ELEMANLARI TOPLAMI= " + t + "</H3>");
+
+    </script>
+</head>
+<body>
+
+</body>
+</html>

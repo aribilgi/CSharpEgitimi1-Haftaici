@@ -1,0 +1,62 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Js15-Jquery Seçiciler</title>
+    <script src="../Scripts/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <h1>Jquery Eğitimi</h1>
+
+    <h2 id="baslik">HTML Öğelerini Id ye Göre Bulma</h2>
+
+    <p id="mesaj"></p>
+
+    <script>
+        $(document).ready(function () {
+            var secilecekElement = $("#baslik");
+            $("#mesaj").text("Başlıktan gelen içerik : " + secilecekElement[0].innerHTML);
+        });
+    </script>
+
+    <hr />
+
+    <h2>Html Öğelerini Etiket Adına Göre Bulma</h2>
+
+    <p id="etiket"></p>
+
+    <script>
+        $(document).ready(function () {
+            var secilecekElement = $("h2");
+            $("#etiket").text("Başlıktan gelen içerik : " + secilecekElement[1].innerHTML);
+        });
+    </script>
+
+    <hr />
+
+    <h2 class="sinifSecici">HTML Öğelerini Sınıf Adına Göre Bulma</h2>
+
+    <p id="sinif"></p>
+
+    <script>
+        $(document).ready(function () {
+            var secilecekElement = $(".sinifSecici");
+            $("#sinif").text("Başlıktan gelen içerik : " + secilecekElement[0].innerHTML);
+        });
+    </script>
+
+    <hr />
+
+    <h2 class="cssSecici">CSS Seçicileri ile HTML Öğelerini Bulma</h2>
+
+    <p id="cssSecici"></p>
+
+    <script>
+        $(document).ready(function () {
+            var secilecekElement = $("h2.cssSecici");
+            $("#cssSecici").text("Başlıktan gelen içerik : " + secilecekElement[0].innerHTML);
+        });
+    </script>
+
+</body>
+</html>

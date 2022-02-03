@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>HTML Metin İçerik İşlemleri</title>
+    <script src="../Scripts/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <h1>HTML Metin İçerik İşlemleri</h1>
+
+    <h2>Metin İçeriğini Değiştirme</h2>
+    <p id="degistir">Merhaba!</p>
+    <p id="jsiledegistir">Selam!</p>
+
+    <hr />
+
+    <h2>Metin İçeriğini Alma</h2>
+    <p id="jqileal">Merhaba!</p>
+    <p id="jsileal">Selam!</p>
+    <h3 id="metin"></h3>
+
+    <hr />
+
+    <h2>HTML İçeriğini Ayarlama</h2>
+    <div id="htmlicerik"></div>
+
+    <h2>HTML İçeriği Alma</h2>
+    <div id="htmlicerikAl"></div>
+
+    <script>
+        //Metin İçeriğini Değiştirme
+        //Jquery ile değiştirme
+        $(document).ready(function () {
+            var secilecekElement = $("#degistir");
+            secilecekElement.text("Selam!");
+        });
+        //Js ile değiştirme
+        const sec = document.getElementById("jsiledegistir");
+        sec.textContent = "js ile değişti!";
+        //////////////////////
+        //Metin İçeriğini Alma
+        //Jq ile alma
+        var yazi = $("#jqileal").text();
+        //$("#metin").text(yazi);
+
+        //Js ile metin alma
+        const metin = document.getElementById("jsileal").textContent;
+        document.getElementById("metin").textContent = metin;
+        //////////////////////////////////////////
+        //Jquery ile Html içerik ayarlama
+        $("#htmlicerik").html("<h2>Jquery Html içerik!</h2>");
+
+        //Js ile Html içerik ayarlama
+        document.getElementById("htmlicerik").innerHTML += "<h3>Js Html içerik!</h3>";
+
+    </script>
+</body>
+</html>
