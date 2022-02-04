@@ -76,6 +76,8 @@
     <Content Include="HariciCSSDosyasi.css" />
     <Content Include="index.html" />
     <Content Include="JavaScript\Js16-Jquery-HTML.html" />
+    <Content Include="JavaScript\Js17-jQueryCSS.html" />
+    <Content Include="JavaScript\Js18-Jquery-Dom.html" />
     <Content Include="jquery-3.6.0.min.js" />
     <Content Include="JavaScript\Js01-Giris.html" />
     <Content Include="JavaScript\Js02-MatematikselIslemler.html" />

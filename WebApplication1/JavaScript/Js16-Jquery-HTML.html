@@ -53,6 +53,13 @@
         //Js ile Html içerik ayarlama
         document.getElementById("htmlicerik").innerHTML += "<h3>Js Html içerik!</h3>";
 
+        //Jquery ile Html içerik alma
+        var icerik = $("#htmlicerik").html();
+        // $("#htmlicerikAl").html(icerik);
+
+        //Js ile Html içerik alma
+        const content = document.getElementById("htmlicerik").innerHTML;
+        document.getElementById("htmlicerikAl").innerHTML = content;
     </script>
 </body>
 </html>

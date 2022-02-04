@@ -1,0 +1,68 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Js18-Jquery-Dom</title>
+    <script src="../Scripts/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <h1>Js18- Javascript Jquery ile Dom İşlemleri</h1>
+    <h2>DOM = Document Object Model</h2>
+
+    <h2>Html Değerlerini Alma</h2>
+    <p>
+        Jquery ile Html elementlerinin value değerlerine erişme
+    </p>
+
+    <form>
+        <input id="Text1" type="text" value="textbox içindeki değer" />
+        <hr />
+        <textarea id="TextArea1" rows="2" cols="20">textarea içindeki değer</textarea>
+        <hr />
+        <input id="Checkbox1" type="checkbox" /> Onaylıyorum
+        <hr />
+        <select id="Select1">
+            <option>C#</option>
+            <option>Javascript</option>
+            <option>Jquery</option>
+        </select>
+        <hr />
+        <input id="Radio1" type="radio" name="cinsiyet" value="Kadın" />Kadın
+        <input id="Radio2" type="radio" name="cinsiyet" value="Erkek" />Erkek
+        <hr />
+        <a href="www.google.com" title="Beni google a götür">Gogıla Git</a>
+    </form>
+    <p id="sonuclar">Boş p elementi</p>
+    <input id="Button1" type="button" value="Sonuçlar" />
+    <input id="Button2" type="button" value="Attribute değeri" />
+
+    <hr />
+
+    <h2>Jquery ile Html Öğereleri Ekleme</h2>
+
+    <div id="eleman">
+        append : seçili elementin sonuna, prepend : başına, after : sonrasına, before : öncesine element ekler.
+    </div>
+
+    <script>
+        $("#Button1").click(function () {
+            var degerler = "";
+
+            degerler += "Text1 in değeri : " + $("#Text1").val();
+            degerler += "<hr />TextArea1 in değeri : " + $("#TextArea1").val();
+            degerler += "<hr />Checkbox1 in değeri : " + $("input#Checkbox1:checkbox:checked").val();
+            degerler += "<hr />Select1 in değeri : " + $("#Select1").val();
+            degerler += "<hr />cinsiyet in değeri : " + $("input[name=cinsiyet]:checked").val();
+
+            $("#sonuclar").html(degerler);
+        });
+        //Attr değerini alma
+        $("#Button2").click(function () {
+            var attrHrefDegeri = $("form a").attr("href");
+            var attrTitleDegeri = $("form a").attr("title");
+
+            $("#sonuclar").html(attrHrefDegeri + "<hr />" + attrTitleDegeri);
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Js17-jQueryCSS</title>
+    <script src="../Scripts/jquery-3.6.0.min.js"></script>
+    <style>
+        .baslik { color:red; font-size:x-large; }
+        .sekil { color:crimson }
+    </style>
+</head>
+<body>
+    <h2>Html Öğelerini Gizleme</h2>
+    <h3 id="gizle">Bu element gizlenecek</h3>
+
+    <h2>Html Öğelerini Gösterme</h2>
+    <h3 id="goster" style="display:none">Bu element gösterilecek</h3>
+
+    <hr />
+
+    <h2>Html Öğelerini Şekillendirme</h2>
+    <div id="sekillendir" class="sekil">
+        Buradaki yazıyı css ile şekillendirelim
+    </div>
+
+    <script>
+        $(document).ready(function () {
+            //$("#gizle").hide();
+        });
+        //Js ile gizleme
+        document.getElementById("gizle").style.display = "none";
+
+        //Jquery ile gizli elementi gösterme
+        //$("#goster").show();
+
+        //Js ile gizli elementi gösterme
+        document.getElementById("goster").style.display = "block"; // display = "" veya "block"
+
+        //Jquery ile css şekillendirme
+        $("#sekillendir").css("font-size", "34px");
+        $("h2:first").addClass("baslik");
+        $("#sekillendir").removeClass("sekil");
+
+        //Js ile style kullanımı
+        document.getElementById("sekillendir").style.color = "blue";
+    </script>
+</body>
+</html>
