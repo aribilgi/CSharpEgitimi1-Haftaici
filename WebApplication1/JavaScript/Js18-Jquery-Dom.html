@@ -40,9 +40,121 @@
 
     <h2>Jquery ile Html Öğereleri Ekleme</h2>
 
-    <div id="eleman">
+    <div id="eleman" style="border:1px ridge crimson">
         append : seçili elementin sonuna, prepend : başına, after : sonrasına, before : öncesine element ekler.
     </div>
+    <input id="Button3" type="button" value="Html Öğereleri Ekle" />
+
+    <hr />
+
+    <h2>Jquery ile Html Öğereleri Sayfadan Kaldırma</h2>
+
+    <div id="silinecek">
+        bu element silinecek
+    </div>
+    <input id="Button4" type="button" value="Html Öğereleri Silme" />
+
+    <hr />
+
+    <h2>Html Üst Öğe Seçme</h2>
+    <div id="aciklama">
+        Jquery parent ile Html Üst Öğe Seçme
+    </div>
+    <p id="html"></p>
+
+    <hr />
+
+    <h2>Jquery ile change olayını yakalama</h2>
+
+    <form>
+        <p>
+            Metin Girin : <input id="degisim" type="text" />
+        </p>
+        <p>
+            Konular
+            <br />
+            <select id="Select1" class="degisim">
+                <option value="html">Html</option>
+                <option value="css">Css</option>
+                <option value="js" selected="selected">Javascript</option>
+                <option value="jquery">Jquery</option>
+            </select>
+        </p>
+        <h3 id="jqchange"></h3>
+    </form>
+
+    <hr />
+
+    <h2>Jquery Efektler</h2>
+
+    <input id="Button5" class="btn1" type="button" value="Fade out" />
+    <input id="Button6" class="btn2" type="button" value="Fade in" />
+    <input id="Button7" class="btn3" type="button" value="Fade to" />
+    <input id="Button8" class="btn4" type="button" value="Fade toggle" />
+
+    <div id="box" style="background:green; height:100px; width: 100px; margin:1rem; padding:1rem; color:white;">
+        <h2>Jquery Efektler</h2>
+    </div>
+    <script>
+        //Jquery Efektler
+        $(".btn1").click(function () {
+            $("p").fadeOut(); // sayfadaki p elementlerini efektle görünmez yap
+            $("#box").delay("slow").fadeOut();
+        });
+
+        $(".btn2").click(function () {
+            $("p").fadeIn(); // sayfadaki p elementlerini efektle görünür yap
+            $("#box").delay("slow").fadeIn();
+        });
+
+        $(".btn3").click(function () {
+            $("#box").fadeTo(1000, 0.3);
+        });
+
+        $(".btn4").click(function () {
+            $("#box").fadeToggle(1500);
+        });
+    </script>
+
+    <input id="btn1" type="button" value="Yükseklik animasyonu" />
+    <input id="btn2" type="button" value="Animasyonu sıfırla" />
+
+    <script>
+        $("#btn1").click(function () {
+            $("#box").animate({ height: "200px" });
+        });
+
+        $("#btn2").click(function () {
+            $("#box").animate({ height: "100px" });
+        });
+    </script>
+
+    <h2>Jquery Ajax Kullanımı</h2>
+
+    <form method="post">
+        <h2>Burası form elemti içi</h2>
+        Ürün adı :  <input id="Text1" type="text" />
+        <input id="Submit1" type="submit" value="Sayfayı sunucuya gönder" />
+    </form>
+
+    <p id="ajax"></p>
+    <input id="btn3" type="button" value="Ajax ile İçerik Yükle" />
+
+    <script>
+        $("#btn3").click(function () {
+            $.ajax({
+                url: "/TextFile1.txt", // url istek yapılacak adres, / kök dizinden başla demek
+                success: function (result) {
+                    $("#ajax").html(result);
+                },
+                error: function () {
+                    $("#ajax").html("hata oluştu");
+                }
+            });
+        });
+    </script>
+
+    <div style="margin-bottom:400px"></div>
 
     <script>
         $("#Button1").click(function () {
@@ -62,6 +174,31 @@
             var attrTitleDegeri = $("form a").attr("title");
 
             $("#sonuclar").html(attrHrefDegeri + "<hr />" + attrTitleDegeri);
+        });
+        //Jquery ile element ekleme
+        $("#Button3").click(function () {
+            $("#eleman").append("<p>append metodu ile eklendi</p>");
+            $("#eleman").prepend("<div>prepend metodu ile eklendi</div>");
+            $("#eleman").after("<h4>after metodu ile eklendi</h4>");
+            $("#eleman").before("<h4>before metodu ile eklendi</h4>");
+        });
+        //Jquery ile element silme
+        $("#Button4").click(function () {
+            //$("#silinecek").remove();
+            $("#silinecek").empty();
+        });
+        //Js ile element silme
+        //document.getElementById("silinecek").remove();
+
+        //Jquery Html Üst Öğe Seçme
+        //$("#html").text($("#aciklama").parent().prop("nodeName"));
+
+        //Js ile HTML Üst Öğe Seçme
+        document.getElementById("html").innerHTML += " <br> " + document.getElementById("aciklama").parentNode.nodeName;
+
+        //Jquery ile değişikliği yakalama
+        $(".degisim").change(function () {
+            $("#jqchange").html($(this).val()); // buradaki $(this) kodu .degisim classına sahip elementi kasteder
         });
     </script>
 </body>
