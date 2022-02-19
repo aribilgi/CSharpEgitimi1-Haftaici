@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ARIBILGI\\Source\\Repos\\CSharpEgitimi1-Haftaici\\ClassLibrary_SinifKutuphanesi\\ClassLibrary_SinifKutuphanesi.csproj",
+      "projectUniqueName": "C:\\Users\\ARIBILGI\\source\\repos\\CSharpEgitimi1-Haftaici\\ClassLibrary_SinifKutuphanesi\\ClassLibrary_SinifKutuphanesi.csproj",
       "projectName": "ClassLibrary_SinifKutuphanesi",
-      "projectPath": "C:\\Users\\ARIBILGI\\Source\\Repos\\CSharpEgitimi1-Haftaici\\ClassLibrary_SinifKutuphanesi\\ClassLibrary_SinifKutuphanesi.csproj",
+      "projectPath": "C:\\Users\\ARIBILGI\\source\\repos\\CSharpEgitimi1-Haftaici\\ClassLibrary_SinifKutuphanesi\\ClassLibrary_SinifKutuphanesi.csproj",
       "packagesPath": "C:\\Users\\ARIBILGI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ARIBILGI\\Source\\Repos\\CSharpEgitimi1-Haftaici\\ClassLibrary_SinifKutuphanesi\\obj\\",
+      "outputPath": "C:\\Users\\ARIBILGI\\source\\repos\\CSharpEgitimi1-Haftaici\\ClassLibrary_SinifKutuphanesi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
       }
     }
   }
