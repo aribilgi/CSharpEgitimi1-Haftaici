@@ -17,6 +17,7 @@ namespace MVCEgitim
                 name: "Default",
                 url: "{controller}/{action}/{id}",
                 defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional }
+                // defaults kısmı eğer uygulamaya adres çubuğundan controller ve action adı gelmezse varsayılan olarak hangi controller ve action un çalıştırılacağını belirler
             );
         }
     }

@@ -11,3 +11,5 @@ D:\CSharpEgitimi\Ders09ErisimBelirleyiciler\bin\Debug\Ders08SiniflarClasses.exe.
 D:\CSharpEgitimi\Ders09ErisimBelirleyiciler\obj\Debug\Ders09ErisimBelirleyiciler.csproj.CopyComplete
 C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\Ders09ErisimBelirleyiciler\obj\Debug\Ders09ErisimBelirleyiciler.exe
 C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\Ders09ErisimBelirleyiciler\obj\Debug\Ders09ErisimBelirleyiciler.pdb
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi1-Haftaici\Ders09ErisimBelirleyiciler\obj\Debug\Ders09ErisimBelirleyiciler.exe
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi1-Haftaici\Ders09ErisimBelirleyiciler\obj\Debug\Ders09ErisimBelirleyiciler.pdb

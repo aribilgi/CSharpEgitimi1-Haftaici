@@ -22,3 +22,15 @@ C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\ClassLibrary_Sin
 C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\ClassLibrary_SinifKutuphanesi\obj\Debug\net5.0\ClassLibrary_SinifKutuphanesi.dll
 C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\ClassLibrary_SinifKutuphanesi\obj\Debug\net5.0\ref\ClassLibrary_SinifKutuphanesi.dll
 C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\ClassLibrary_SinifKutuphanesi\obj\Debug\net5.0\ClassLibrary_SinifKutuphanesi.pdb
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi1-Haftaici\ClassLibrary_SinifKutuphanesi\bin\Debug\net5.0\ClassLibrary_SinifKutuphanesi.deps.json
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi1-Haftaici\ClassLibrary_SinifKutuphanesi\bin\Debug\net5.0\ClassLibrary_SinifKutuphanesi.dll
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi1-Haftaici\ClassLibrary_SinifKutuphanesi\bin\Debug\net5.0\ref\ClassLibrary_SinifKutuphanesi.dll
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi1-Haftaici\ClassLibrary_SinifKutuphanesi\bin\Debug\net5.0\ClassLibrary_SinifKutuphanesi.pdb
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi1-Haftaici\ClassLibrary_SinifKutuphanesi\obj\Debug\net5.0\ClassLibrary_SinifKutuphanesi.csproj.AssemblyReference.cache
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi1-Haftaici\ClassLibrary_SinifKutuphanesi\obj\Debug\net5.0\ClassLibrary_SinifKutuphanesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi1-Haftaici\ClassLibrary_SinifKutuphanesi\obj\Debug\net5.0\ClassLibrary_SinifKutuphanesi.AssemblyInfoInputs.cache
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi1-Haftaici\ClassLibrary_SinifKutuphanesi\obj\Debug\net5.0\ClassLibrary_SinifKutuphanesi.AssemblyInfo.cs
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi1-Haftaici\ClassLibrary_SinifKutuphanesi\obj\Debug\net5.0\ClassLibrary_SinifKutuphanesi.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi1-Haftaici\ClassLibrary_SinifKutuphanesi\obj\Debug\net5.0\ClassLibrary_SinifKutuphanesi.dll
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi1-Haftaici\ClassLibrary_SinifKutuphanesi\obj\Debug\net5.0\ref\ClassLibrary_SinifKutuphanesi.dll
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi1-Haftaici\ClassLibrary_SinifKutuphanesi\obj\Debug\net5.0\ClassLibrary_SinifKutuphanesi.pdb

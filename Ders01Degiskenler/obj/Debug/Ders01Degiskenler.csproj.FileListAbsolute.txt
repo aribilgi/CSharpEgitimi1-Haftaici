@@ -7,3 +7,5 @@ D:\CSharpEgitimi\Ders01Degiskenler\obj\Debug\Ders01Degiskenler.pdb
 D:\CSharpEgitimi\Ders01Degiskenler\obj\Debug\Ders01Degiskenler.csprojAssemblyReference.cache
 C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\Ders01Degiskenler\obj\Debug\Ders01Degiskenler.exe
 C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\Ders01Degiskenler\obj\Debug\Ders01Degiskenler.pdb
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi1-Haftaici\Ders01Degiskenler\obj\Debug\Ders01Degiskenler.exe
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi1-Haftaici\Ders01Degiskenler\obj\Debug\Ders01Degiskenler.pdb

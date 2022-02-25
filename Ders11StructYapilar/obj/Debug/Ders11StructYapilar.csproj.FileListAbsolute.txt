@@ -7,3 +7,5 @@ D:\CSharpEgitimi\Ders11StructYapilar\obj\Debug\Ders11StructYapilar.exe
 D:\CSharpEgitimi\Ders11StructYapilar\obj\Debug\Ders11StructYapilar.pdb
 C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\Ders11StructYapilar\obj\Debug\Ders11StructYapilar.exe
 C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\Ders11StructYapilar\obj\Debug\Ders11StructYapilar.pdb
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi1-Haftaici\Ders11StructYapilar\obj\Debug\Ders11StructYapilar.exe
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi1-Haftaici\Ders11StructYapilar\obj\Debug\Ders11StructYapilar.pdb

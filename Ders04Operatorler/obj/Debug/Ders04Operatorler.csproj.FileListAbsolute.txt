@@ -7,3 +7,5 @@ D:\CSharpEgitimi\Ders04Operatorler\obj\Debug\Ders04Operatorler.pdb
 D:\CSharpEgitimi\Ders04Operatorler\obj\Debug\Ders04Operatorler.csprojAssemblyReference.cache
 C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\Ders04Operatorler\obj\Debug\Ders04Operatorler.exe
 C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\Ders04Operatorler\obj\Debug\Ders04Operatorler.pdb
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi1-Haftaici\Ders04Operatorler\obj\Debug\Ders04Operatorler.exe
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi1-Haftaici\Ders04Operatorler\obj\Debug\Ders04Operatorler.pdb

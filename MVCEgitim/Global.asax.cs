@@ -10,12 +10,12 @@ namespace MVCEgitim
 {
     public class MvcApplication : System.Web.HttpApplication
     {
-        protected void Application_Start()
+        protected void Application_Start() // Uygulama çalıştığında aşağıdaki metotları çalıştır
         {
-            AreaRegistration.RegisterAllAreas();
-            FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
-            RouteConfig.RegisterRoutes(RouteTable.Routes);
-            BundleConfig.RegisterBundles(BundleTable.Bundles);
+            AreaRegistration.RegisterAllAreas(); // bölgeleri aktif et
+            FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters); // filtreleri aktif et
+            RouteConfig.RegisterRoutes(RouteTable.Routes); // Routing i aktif et
+            BundleConfig.RegisterBundles(BundleTable.Bundles); // Bundles (Css, js kütüphaneleri) ı aktif et
         }
     }
 }

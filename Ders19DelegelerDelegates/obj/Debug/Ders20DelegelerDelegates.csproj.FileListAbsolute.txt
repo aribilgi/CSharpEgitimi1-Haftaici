@@ -12,3 +12,10 @@ C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\Ders19DelegelerD
 C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\Ders19DelegelerDelegates\obj\Debug\Ders20DelegelerDelegates.csproj.CoreCompileInputs.cache
 C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\Ders19DelegelerDelegates\obj\Debug\Ders19DelegelerDelegates.exe
 C:\Users\ARIBILGI\Source\Repos\aribilgi\CSharpEgitimi1-Haftaici\Ders19DelegelerDelegates\obj\Debug\Ders19DelegelerDelegates.pdb
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi1-Haftaici\Ders19DelegelerDelegates\bin\Debug\Ders19DelegelerDelegates.exe.config
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi1-Haftaici\Ders19DelegelerDelegates\bin\Debug\Ders19DelegelerDelegates.exe
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi1-Haftaici\Ders19DelegelerDelegates\bin\Debug\Ders19DelegelerDelegates.pdb
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi1-Haftaici\Ders19DelegelerDelegates\obj\Debug\Ders20DelegelerDelegates.csproj.AssemblyReference.cache
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi1-Haftaici\Ders19DelegelerDelegates\obj\Debug\Ders20DelegelerDelegates.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi1-Haftaici\Ders19DelegelerDelegates\obj\Debug\Ders19DelegelerDelegates.exe
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi1-Haftaici\Ders19DelegelerDelegates\obj\Debug\Ders19DelegelerDelegates.pdb
