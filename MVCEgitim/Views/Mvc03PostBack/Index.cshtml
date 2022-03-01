@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewBag.Title = "MVC Postback";
+    string postMesaji = "";
+    string mesajKutusu = "";
+
+    if (IsPost) // eğer sayfa post edildiyse
+    {
+        //aşağıdaki kodları çalıştır
+        postMesaji = "Post işlemi gerçekleşti";
+        mesajKutusu = "<script>alert('Post işlemi gerçekleşti')</script>";
+    }
+}
+
+<h2>MVC Postback</h2>
+
+<form method="post">
+    <input id="Text1" type="text" />
+    <input id="Submit1" type="submit" value="Formu Sunucuya Gönder" />
+</form>
+@postMesaji
+@Html.Raw(mesajKutusu)
+
+<hr />
+
+html.raw metodu script kodlarının metin olarak değil javascript kodu olarak ekrana basılmasını ve kodların çalışmasını sağlar!!

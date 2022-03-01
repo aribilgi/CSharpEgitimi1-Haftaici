@@ -1,0 +1,81 @@
+﻿
+@{
+    ViewBag.Title = "Mvc02 Html Helpers";
+}
+
+<h2>Mvc02 Html Helpers</h2>
+
+<p>Html.ActionLink aşağıdaki gibi 2 parametreyle kullanılırsa aynı controllerdaki farklı action'lara sayfa yönlendirmesi yapılabilir.</p>
+
+@Html.ActionLink("Anasayfa", "Index")
+
+<p>
+    Ayrı bir controllera yönlendirme yapmak istersek aşağıdaki gibi 3 parametre kullanmamız gerekir
+</p>
+
+@Html.ActionLink("Hakkımızda", "About", "Home")
+
+<a href="/Home/About">Hakkımızda linkini oluşturduk</a>
+
+<hr />
+
+@Html.CheckBox("Onayla", true) Onaylıyorum
+
+<hr />
+
+@Html.Editor("txtAd") Textbox oluşturur
+
+<hr />
+
+@Html.Hidden("gizliElement", "Gizli(Hidden) Element Oluşturur") Gizli(Hidden) Element Oluşturur
+
+<hr />
+
+@Html.Label("lblAd", "label etiketi")
+
+<hr />
+
+@Html.TextArea("txtAdres", "İstanbul Ataşehir") Çok satırlı textbox
+
+<hr />
+
+@Html.TextBox("txtSoyad", "değer") TextBox oluşturur
+
+<hr />
+
+@Html.Password("txtSifre") Şifre textbox ı oluşturur
+
+<hr />
+
+<h3>Html Helpers İle Form Oluşturma</h3>
+
+@using (Html.BeginForm())
+{
+    <h4>Kullanıcı Adı</h4>
+    @Html.Editor("kullanici")
+    <h4>Şifre</h4>
+    @Html.Password("sifre")
+    <br />
+    <input id="Submit1" type="submit" value="Giriş" />
+}
+
+@{
+    SelectListItem[] liste = new SelectListItem[3]
+    {
+        new SelectListItem() { Text = "Bilgisayar" },
+        new SelectListItem() { Text = "Monitör" },
+        new SelectListItem() { Text = "Tablet" }
+                            };
+}
+
+<h3>ListBox Kullanımı</h3>
+
+@Html.ListBox("lbKategoriler", liste)
+
+<hr />
+
+@Html.RadioButton("onay", "Onaylıyorum"), true Sözleşmeyi kabul ediyorum
+
+<hr />
+
+@Html.Raw("<h2>Html.Raw ile ekrana html içerikleri ekleyebiliriz</h2>")
