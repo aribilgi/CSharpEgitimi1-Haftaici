@@ -10,6 +10,19 @@
     string isim = "Uğur"; // Değişken oluşturduk
 
     @isim // Değişkeni yazdırma
+    <br />
+    <b>@isim</b>
 
+
+    <h2>Mvc Razor Syntax</h2>
+
+    string[] adlar = new string[] { "Ali", "Veli", "Cemşit" };
+
+    foreach (string ad in adlar)
+    {
+        @(ad + " ")
+        <hr />
+        <strong>@ad</strong>
+    }
 
 }
