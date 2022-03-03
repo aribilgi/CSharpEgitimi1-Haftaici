@@ -20,28 +20,33 @@
             </div>
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
-                    <li>@Html.ActionLink("Home", "Index", "Home")</li>
-                    <li>@Html.ActionLink("About", "About", "Home")</li>
-                    <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+                    <li>@Html.ActionLink("Ana Sayfa", "Index", "Home")</li>
+                    <li>@Html.ActionLink("Hakkımızda", "About", "Home")</li>
+                    <li>@Html.ActionLink("İletişim", "Contact", "Home")</li>
+                    @Html.Partial("_PartialPageLogin")
                 </ul>
             </div>
         </div>
     </div>
     <div class="container body-content">
         @*<p>
-            Yukarıda head alanındaki Styles.Render metotları Bundleconfig dosyasında belirtilen css veya js dosyalarını projeye dahil eder.
-        </p>*@
+                Yukarıda head alanındaki Styles.Render metotları Bundleconfig dosyasında belirtilen css veya js dosyalarını projeye dahil eder.
+            </p>*@
         @RenderBody()
         <hr />
         @*MVC de anasayfa, hakkımızda, iletişim vb alt sayfalar RenderBody metodu içerisinde çalıştırılır.
-        <hr />
-        Böylece alt sayfalarda html etiketlerinin eklenmesine gerek kalmaz
-        <hr />
-        Aşağıdaki Scripts.Render metotları da projeye içerisinde yer alan jquery ve bootstrap kütüphanelerini dahil eder.
-        <hr />
-        Bu kodlar olmazsa kütüphaneler kullanılamaz! Bu metotların dışında kütüphane dosyalarını klasörden aynı alanlara sürükle bırak yöntemiyle de ekleyebiliriz sorun olmaz..*@
+            <hr />
+            Böylece alt sayfalarda html etiketlerinin eklenmesine gerek kalmaz
+            <hr />
+            Aşağıdaki Scripts.Render metotları da projeye içerisinde yer alan jquery ve bootstrap kütüphanelerini dahil eder.
+            <hr />
+            Bu kodlar olmazsa kütüphaneler kullanılamaz! Bu metotların dışında kütüphane dosyalarını klasörden aynı alanlara sürükle bırak yöntemiyle de ekleyebiliriz sorun olmaz..*@
         <footer>
+            @RenderSection("SayfaAdi", required: false)
             <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+            <address>
+                @RenderSection("adres", required: false)
+            </address>
         </footer>
     </div>
 

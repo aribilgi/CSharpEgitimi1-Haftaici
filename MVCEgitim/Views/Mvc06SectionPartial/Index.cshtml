@@ -1,0 +1,27 @@
+﻿
+@{
+    ViewBag.Title = "Section ve Partial Kullanımı";
+}
+
+<h2>Section ile Bölümler Oluşturma</h2>
+
+<section>
+    Bölüm
+</section>
+
+@section scripts
+{
+    @*<script>alert('Section kullanımı')</script>*@
+}
+
+@section SayfaAdi{
+    Section ile Bölümler Oluşturma
+}
+
+@section adres{
+    Adres : İstanbul, Kadıköy, Türkiye
+}
+
+<h2>Partial Kullanımı</h2>
+
+@Html.Partial("_PartialPageLogin")

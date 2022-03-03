@@ -5,3 +5,15 @@
 
 <h2>Mvc04 HttpUtility</h2>
 
+@{
+    string baslik = "<h1>HttpUtility HtmlEncode, HtmlDecode</h1>";
+    string baslik2 = HttpUtility.HtmlEncode(baslik);
+    string baslik3 = HttpUtility.HtmlDecode(baslik2);
+    @baslik
+    <hr />
+    @baslik2
+    <hr />
+    @baslik3
+    <hr />
+    @Html.Raw(baslik)
+}
