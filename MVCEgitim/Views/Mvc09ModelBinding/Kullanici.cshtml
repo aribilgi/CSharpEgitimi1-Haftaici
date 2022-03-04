@@ -1,0 +1,26 @@
+﻿@model MVCEgitim.Models.Kullanici
+
+@{
+    ViewBag.Title = "Kullanıcı Bilgileri";
+}
+
+<h2>Kullanıcı Bilgileri</h2>
+
+<div>
+    @using (Html.BeginForm())
+    {
+        <div>
+            Ad: @Html.EditorFor(model => model.Ad)
+            <hr />
+            Soyad: @Html.EditorFor(model => model.Soyad)
+            <hr />
+            Email: @Html.EditorFor(model => model.Email)
+            <hr />
+            Kullanıcı Adı: @Html.EditorFor(model => model.KullaniciAdi)
+            <hr />
+            Şifre: @Html.EditorFor(model => model.Sifre)
+            <hr />
+            <input type="submit" value="Gönder" />
+        </div>
+    }
+</div>

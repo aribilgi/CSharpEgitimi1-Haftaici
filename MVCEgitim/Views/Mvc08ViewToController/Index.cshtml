@@ -1,0 +1,61 @@
+﻿
+@{
+    ViewBag.Title = "MVC View dan Controller a veri gönderme";
+
+
+    <h2>MVC View dan Controller a veri gönderme</h2>
+
+    <div>
+        @using (Html.BeginForm("Index", "Mvc08ViewToController", FormMethod.Get))
+        {
+            @Html.TextBox("txtAra") <hr />
+            <input type="submit" value="Ara" />
+        }
+    </div>
+
+    @ViewBag.GetVerisi
+
+    if (Request.QueryString["txtAra"] != null) // Get metodu form içerisindeki verileri QueryString yöntemiyle tarayıcı adres çubuğu üzerinden taşır
+    {
+        <h4>Aranan kelime : @Request.QueryString["txtAra"]</h4>
+    }
+
+    <hr />
+
+    SelectListItem[] liste = new SelectListItem[3]
+    {
+       new SelectListItem() { Text="Bilgisayar" },
+       new SelectListItem() { Text="Monitör"  },
+       new SelectListItem() { Text="Tablet" }
+                                                                             };
+
+    <h2>MVC View dan Controller a Post Metodu ile veri gönderme</h2>
+
+    <div>
+        @using (Html.BeginForm())
+        {
+            @Html.TextBox("text1") <hr />
+            @Html.DropDownList("liste", liste) <hr />
+            @Html.CheckBox("cbOnay") @("Onaylıyorum") <hr />
+            <input type="submit" value="Gönder" />
+        }
+    </div>
+
+    <hr />
+    if (IsPost)
+    {
+        @ViewBag.Mesaj
+        <hr />
+        @ViewData["Vdata"]
+        <hr />
+        @TempData["Tdata"]
+
+        <h3>Request.Form Yöntemi İle</h3>
+
+        @ViewBag.Mesaj2
+        <hr />
+        @ViewData["Vdata2"]
+        <hr />
+        @TempData["Tdata2"]
+    }
+}
