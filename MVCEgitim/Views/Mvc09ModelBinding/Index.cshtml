@@ -1,7 +1,20 @@
-﻿
+﻿@model MVCEgitim.Models.AnasayfaViewModel
+
 @{
-    ViewBag.Title = "Index";
+    ViewBag.Title = "Anasayfa";
 }
 
-<h2>Index</h2>
+<h2>Anasayfa</h2>
 
+<div>
+    <h3>Anasayfa View Model</h3>
+    <hr />
+
+    <h4>Kullanıcı Bilgileri</h4>
+    Id : @Model.Kullanici.Id
+    <h5>Adı : @Model.Kullanici.Ad</h5>
+    <h5>Soyadı : @Model.Kullanici.Soyad</h5>
+    <h5>Email : @Model.Kullanici.Email</h5>
+    <h5>@Html.LabelFor(model => model.Kullanici.KullaniciAdi) : @Html.DisplayFor(model => model.Kullanici.KullaniciAdi)</h5>
+    <h5>Şifre :  @Html.DisplayFor(model => model.Kullanici.Sifre)</h5>
+</div>

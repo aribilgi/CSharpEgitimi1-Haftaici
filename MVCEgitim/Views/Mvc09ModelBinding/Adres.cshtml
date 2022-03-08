@@ -1,0 +1,52 @@
+﻿@model MVCEgitim.Models.Adres
+
+@{
+    ViewBag.Title = "Adres";
+}
+
+<h2>Adres Bilgileri</h2>
+
+@using (Html.BeginForm())
+{
+    <table>
+        <tr>
+            <td>Şehir</td>
+            <td>
+                @Html.EditorFor(model => model.Sehir)
+            </td>
+        </tr>
+        <tr>
+            <td>Ilce</td>
+            <td>
+                @Html.EditorFor(model => model.Ilce)
+            </td>
+        </tr>
+        <tr>
+            <td>Açık Adres</td>
+            <td>
+                @Html.EditorFor(model => model.AcikAdres)
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <input id="Submit1" type="submit" value="Gönder" />
+            </td>
+        </tr>
+    </table>
+}
+
+@{
+    if (IsPost)
+    {
+        @ViewBag.Mesaj
+        <hr />
+        @ViewData["Vdata"]
+        <hr />
+        @TempData["Tdata"]
+        <hr />
+        <h2>Model kullanarak dataları gösterme</h2>
+        <div>Şehir : @Model.Sehir</div>
+        <div>İlçe : @Model.Ilce</div>
+        <div>Açık Adres : @Model.AcikAdres</div>
+    }
+}
