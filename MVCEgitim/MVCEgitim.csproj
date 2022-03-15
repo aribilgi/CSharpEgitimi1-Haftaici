@@ -130,12 +130,14 @@
     <Compile Include="Controllers\Mvc07ControllerToViewController.cs" />
     <Compile Include="Controllers\Mvc08ViewToControllerController.cs" />
     <Compile Include="Controllers\Mvc09ModelBindingController.cs" />
+    <Compile Include="Controllers\Mvc10ModelValidationController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\Adres.cs" />
     <Compile Include="Models\AnasayfaViewModel.cs" />
     <Compile Include="Models\Kullanici.cs" />
+    <Compile Include="Models\Uye.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -186,6 +188,7 @@
     <Content Include="Views\Mvc09ModelBinding\Index.cshtml" />
     <Content Include="Views\Mvc09ModelBinding\Kullanici.cshtml" />
     <Content Include="Views\Mvc09ModelBinding\Adres.cshtml" />
+    <Content Include="Views\Mvc10ModelValidation\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
