@@ -5,3 +5,14 @@
 
 <h2>Mvc de Session ve Cookie Kullanımı</h2>
 
+@using (Html.BeginForm())
+{
+    @Html.TextBox("text", "sess")
+    <button type="submit">Session Oluştur</button>
+}
+
+@using (Html.BeginForm("CookieOlustur", "Mvc11SessionCookie"))
+{
+    @Html.TextBox("kuki", "kuki")
+    <button type="submit">Cookie Oluştur</button>
+}

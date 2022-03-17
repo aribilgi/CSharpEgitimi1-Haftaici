@@ -1,0 +1,14 @@
+﻿
+@{
+    ViewBag.Title = "Cookie Oku";
+}
+
+<h2>Cookie Oku</h2>
+
+
+@ViewBag.Kullanici
+
+@using (Html.BeginForm("CookieSil", "Mvc11SessionCookie"))
+{
+    <button type="submit">Cookie Sil</button>
+}

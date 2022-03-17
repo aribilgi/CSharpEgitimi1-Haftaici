@@ -1,0 +1,18 @@
+﻿
+@{
+    ViewBag.Title = "Session Oku";
+}
+
+<h2>Session Oku</h2>
+
+<h3>Session değeri : </h3>
+
+<hr />
+<b>Değer</b> : @ViewBag.SessDeger
+
+<hr />
+
+@using (Html.BeginForm())
+{
+    <button type="submit">Session Sil</button>
+}
