@@ -72,8 +72,8 @@ C:\Users\ARIBILGI\source\repos\CSharpEgitimi1-Haftaici\MVCEgitim\bin\System.Web.
 C:\Users\ARIBILGI\source\repos\CSharpEgitimi1-Haftaici\MVCEgitim\bin\Newtonsoft.Json.xml
 C:\Users\ARIBILGI\source\repos\CSharpEgitimi1-Haftaici\MVCEgitim\bin\Antlr3.Runtime.pdb
 C:\Users\ARIBILGI\source\repos\CSharpEgitimi1-Haftaici\MVCEgitim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\ARIBILGI\source\repos\CSharpEgitimi1-Haftaici\MVCEgitim\obj\Debug\MVCEgitim.csproj.AssemblyReference.cache
 C:\Users\ARIBILGI\source\repos\CSharpEgitimi1-Haftaici\MVCEgitim\obj\Debug\MVCEgitim.csproj.CoreCompileInputs.cache
 C:\Users\ARIBILGI\source\repos\CSharpEgitimi1-Haftaici\MVCEgitim\obj\Debug\MVCEgitim.csproj.CopyComplete
 C:\Users\ARIBILGI\source\repos\CSharpEgitimi1-Haftaici\MVCEgitim\obj\Debug\MVCEgitim.dll
 C:\Users\ARIBILGI\source\repos\CSharpEgitimi1-Haftaici\MVCEgitim\obj\Debug\MVCEgitim.pdb
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi1-Haftaici\MVCEgitim\obj\Debug\MVCEgitim.csproj.AssemblyReference.cache

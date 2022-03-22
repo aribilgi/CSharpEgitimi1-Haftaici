@@ -133,6 +133,7 @@
     <Compile Include="Controllers\Mvc10ModelValidationController.cs" />
     <Compile Include="Controllers\Mvc11SessionCookieController.cs" />
     <Compile Include="Controllers\Mvc12FileUploadController.cs" />
+    <Compile Include="Controllers\Mvc13ViewResultController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -153,6 +154,7 @@
     <Content Include="Content\Site.css" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="ariBilgi.pdf" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
     <Content Include="Scripts\jquery-3.4.1.min.js" />
@@ -199,6 +201,9 @@
     <Content Include="Views\Mvc11SessionCookie\Sessions.cshtml" />
     <Content Include="Views\Mvc11SessionCookie\CookieOku.cshtml" />
     <Content Include="Views\Mvc12FileUpload\Index.cshtml" />
+    <Content Include="Views\Mvc13ViewResult\Index.cshtml" />
+    <Content Include="Views\Shared\_KategorilerPartial.cshtml" />
+    <Content Include="Views\Shared\_KategorilerPartial2.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
