@@ -43,7 +43,7 @@
             Bu kodlar olmazsa kütüphaneler kullanılamaz! Bu metotların dışında kütüphane dosyalarını klasörden aynı alanlara sürükle bırak yöntemiyle de ekleyebiliriz sorun olmaz..*@
         <footer>
             @RenderSection("SayfaAdi", required: false)
-            <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+            <p>&copy; @DateTime.Now.Year - MVC Eğitim Projesi</p>
             <address>
                 @RenderSection("adres", required: false)
             </address>
@@ -51,7 +51,6 @@
     </div>
 
     @Scripts.Render("~/bundles/jquery")
-    @Scripts.Render("~/bundles/bootstrap")
     @RenderSection("scripts", required: false)
 </body>
 </html>
