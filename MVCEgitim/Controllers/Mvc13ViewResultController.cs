@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MVCEgitim.Models;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -72,6 +73,36 @@ namespace MVCEgitim.Controllers
             string js = "function button_click(){ alert('jsButtonClick Çalıştı!');}";
 
             return JavaScript(js);
+        }
+        public JsonResult Index4()
+        {
+            Kullanici kullanici = new Kullanici
+            {
+                Id = 5,
+                Ad = "Ali",
+                Email = "mail",
+                KullaniciAdi = "admin"
+            };
+            return Json(kullanici, JsonRequestBehavior.AllowGet);
+        }
+        public ContentResult XmlContentResult()
+        {
+            var xml = @"
+                <kullanicilar>
+                    <kullanici>
+                        <Id>9</Id>
+                        <Ad>Murat</Ad>
+                        <Soyad>Yılmaz</Soyad>
+                        <Email>null</Email>
+                    </kullanici>
+                    <kullanici>
+                        <Id>10</Id>
+                        <Ad>Mesut</Ad>
+                        <Soyad>Ilıca</Soyad>
+                        <Email>null</Email>
+                    </kullanici>
+                </kullanicilar>";
+            return Content(xml, "application/xml");
         }
     }
 }
