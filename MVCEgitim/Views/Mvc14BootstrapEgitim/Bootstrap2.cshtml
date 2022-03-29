@@ -1,0 +1,139 @@
+﻿
+@{
+    ViewBag.Title = "Bootstrap Tables";
+}
+
+<h2>Bootstrap Tables</h2>
+
+<p>
+    Bootstrap de table classları
+</p>
+
+<table class="table table-striped table-hover table-bordered table-responsive">
+    <tr>
+        <td>Ürün Adı</td>
+        <td>Fiyatı</td>
+        <td>Stok</td>
+    </tr>
+    <tr>
+        <td>Bilgisayar</td>
+        <td>10800</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>Klavye</td>
+        <td>180</td>
+        <td>18</td>
+    </tr>
+    <tr>
+        <td>Monitör</td>
+        <td>2180</td>
+        <td>5</td>
+    </tr>
+</table>
+
+<hr />
+
+<h2>Form Elementleri ve Buton Classları</h2>
+
+<form action="/" method="post">
+    <table class="table">
+        <tr>
+            <td>Kullanıcı Adınız</td>
+            <td>
+                <input id="Text1" type="text" class="form-control" />
+            </td>
+        </tr>
+        <tr>
+            <td>Şifreniz</td>
+            <td>
+                <input id="Password1" type="password" class="form-control" />
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" class="text-center">
+                <input id="Submit1" type="submit" value="Giriş" class="btn btn-primary" />
+                <input id="Submit2" type="submit" value="Kaydol" class="btn btn-secondary" />
+                <input id="Submit3" type="submit" value="Şifremi Unuttum" class="btn btn-danger" />
+            </td>
+        </tr>
+    </table>
+
+</form>
+
+<form action="/" method="post" class="mt-5">
+    <div class="form-floating mb-3">
+        <input type="email" class="form-control" id="floatingInput" placeholder="info@mailadresi.com">
+        <label for="floatingInput">Email</label>
+    </div>
+
+    <div class="form-floating mb-3">
+        <input type="password" class="form-control" id="floatingPassword" placeholder="Şifreniz">
+        <label for="floatingPassword">Şifre</label>
+    </div>
+    <div>
+        <input id="Submit4" type="submit" value="Giriş" class="btn btn-info" />
+        <input id="Submit5" type="submit" value="Vazgeç" class="btn btn-success" />
+    </div>
+</form>
+
+<h2>
+    Bootstrap Butonlar
+</h2>
+
+<input id="Button1" type="button" value="btn-outline-primary" class="btn btn-outline-primary" />
+<input id="Button2" type="button" value="btn-outline-secondary" class="btn btn-outline-secondary" />
+<input id="Button3" type="button" value="btn-outline-danger" class="btn btn-outline-danger" />
+<input id="Button4" type="button" value="btn-outline-dark" class="btn btn-outline-dark" />
+<input id="Button5" type="button" value="btn-outline-info" class="btn btn-outline-info" />
+<input id="Button6" type="button" value="btn-outline-light" class="btn btn-outline-light" />
+<input id="Button7" type="button" value="btn-outline-success" class="btn btn-outline-success" />
+<input id="Button8" type="button" value="btn-outline-warning" class="btn btn-outline-warning" />
+
+<hr />
+
+<a href="#">Bs Class sız</a>
+<a href="#" class="btn btn-outline-success">success</a>
+<a href="#" class="btn btn-success">success</a>
+
+<hr />
+
+<h2>
+    Bootstrap Alerts
+</h2>
+
+<div class="alert alert-danger">
+    Bootstrap Alerts Kullanımı danger
+</div>
+
+<div class="alert alert-dark">
+    Bootstrap Alerts Kullanımı dark
+</div>
+
+<div class="alert alert-info">
+    Bootstrap Alerts Kullanımı info
+</div>
+
+<div class="alert alert-light">
+    Bootstrap Alerts Kullanımı light
+</div>
+
+<div class="alert alert-link">
+    Bootstrap Alerts Kullanımı link
+</div>
+
+<div class="alert alert-primary">
+    Bootstrap Alerts Kullanımı primary
+</div>
+
+<div class="alert alert-secondary">
+    Bootstrap Alerts Kullanımı secondary
+</div>
+
+<div class="alert alert-success">
+    Bootstrap Alerts Kullanımı success
+</div>
+
+<div class="alert alert-warning">
+    Bootstrap Alerts Kullanımı warning
+</div>
