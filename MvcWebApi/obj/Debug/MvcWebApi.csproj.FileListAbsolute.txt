@@ -68,3 +68,7 @@ C:\Users\ARIBILGI\source\repos\CSharpEgitimi1-Haftaici\MvcWebApi\bin\roslyn\Syst
 C:\Users\ARIBILGI\source\repos\CSharpEgitimi1-Haftaici\MvcWebApi\bin\roslyn\System.Memory.dll
 C:\Users\ARIBILGI\source\repos\CSharpEgitimi1-Haftaici\MvcWebApi\bin\roslyn\System.Numerics.Vectors.dll
 C:\Users\ARIBILGI\source\repos\CSharpEgitimi1-Haftaici\MvcWebApi\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi1-Haftaici\MvcWebApi\bin\EntityFramework.dll
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi1-Haftaici\MvcWebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi1-Haftaici\MvcWebApi\bin\EntityFramework.xml
+C:\Users\ARIBILGI\source\repos\CSharpEgitimi1-Haftaici\MvcWebApi\bin\EntityFramework.SqlServer.xml
